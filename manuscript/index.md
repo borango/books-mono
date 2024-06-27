@@ -10,6 +10,8 @@ travel -> {simple sustainable happy}
 `
 ```
 
+![](resources/title_page.png)
+
 ```js 
 import{ digraph, digraph2svg, visco } from "@kxfm/browser"
 ```
