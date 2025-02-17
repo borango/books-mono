@@ -15,13 +15,13 @@ You can travel by many means of transportation. For the purpose of this book, we
 
 We will tell you everything about the hacks and simple systems that we created and applied on our journeys. We have heard that our stories inspire people, so we want to inspire and encourage you all to live your dreams...
 
-Compared to residential life (in a house or home), traveling means to limit the stuff that I can take with me. In that sense, we traveling by car is more limited and hardcore than traveling by boat, and backpacking is more hardcore than traveling by car.
+Compared to residential life (in a house or home), traveling means to limit the stuff that I can take with me. In that sense, traveling by car is more limited and hardcore than traveling by boat, and backpacking is more hardcore than traveling by car.
 
 Understanding your needs, developing new habits, inventing procedures and discovering external resources along along your way are keys to successful eco travel.
 
 ## The authors
 
-Who are we? Two voyagers who met, recognized our shared passion for travel, people and planet...
+Who are we? Two voyagers who met and recognized our shared passion for travel, people and the planet...
 
 ### Flojito
 
@@ -29,4 +29,4 @@ Who are we? Two voyagers who met, recognized our shared passion for travel, peop
 
 ### Boran
 
-Full-time traveller since 2020, part-time sailor, roof-tent nomad.
+Full-time traveller since 2020. Experienced in extensive roof-tent traveling and living aboard sailboats.
