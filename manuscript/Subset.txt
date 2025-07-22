@@ -1,5 +1,3 @@
 1_intro.md  
 basics.md   
 on_foot.md  
-by_car.md	
-by_boat.md
