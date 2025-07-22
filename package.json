@@ -4,7 +4,7 @@
   "scripts": {
     "clean": "rimraf manuscript/.observablehq/cache",
     "build": "rimraf dist && observable build",
-    "dev": "observable preview",
+    "dev": "observable preview --host 0.0.0.0",
     "deploy": "observable deploy",
     "observable": "observable",
     "update-kts": "npm run update-one && npm run update-bro && npm run update-obs",
