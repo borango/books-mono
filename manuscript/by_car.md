@@ -14,13 +14,15 @@ Depending how and where you source your electricity, it can come at very low cos
 
 In general we assume that the future price of electricity is more predictable than the price of gasoline or diesel.
 
-Access to a (fast) electric charging station may be limited in certain regions, particularly in less wealthy parts of the world. Charging station coverage typically follow the market of EV sales.
+Access to a (fast) electric charging station may be limited in certain regions, particularly in less wealthy parts of the world. Charging station coverage typically follows the market of EV sales.
 
 On the simplest end of electrical installation (230 Volt), an EV has actually more charging options than a petrol car. All you need to find is a standard power outlet. Because it is slow, charging over night makes most sense. Therefore, charging at some sort of accomodation is ideal. Boran has travelled the Sahara part of Morrocco in 2019 in this style: requesting a bed and breakfast with a power outlet, or checking on a campsite that electricity is actually available.
 
 In the long run, cheaper costs of electricity can compensate the higher initial purchase price, making an electric vehicle actually a the less expensive choice. 
 
 ## Roof Tent
+
+![Roof Tent on Öland, Sweden](roof-tent-oeland.jpg)
 
 If your car is smaller than a typical recreational vehicle or camper and you wish for more space, then I can only recommend a root tent. It is relatively inexpensive (compared to buying a larger vehicle) and compatible with most cars or trucks. That simplifies the investment decision, because you can add a roof tent to your existing car now, and carry it over to a new car or truck later.
 
