@@ -1,8 +1,7 @@
 # By Car
 
-Boran's note:
-
-> My experience comes from 10 years of driving an electric vehicle. My travels took me North of the Arctic circle (twice) and to the Morroccan Sahara (twice). In the second 5 years I used to roof tent which had been a perfect extension in space and comfort.
+A> Boran's note:
+My experience comes from 10 years of driving an electric vehicle. My travels took me North of the Arctic circle (twice) and to the Morroccan Sahara (twice). In the second 5 years I used to roof tent which had been a perfect extension in space and comfort.
 
 ## Electric Vehicle
 
@@ -18,7 +17,7 @@ Access to a (fast) electric charging station may be limited in certain regions, 
 
 On the simplest end of electrical installation (230 Volt), an EV has actually more charging options than a petrol car. All you need to find is a standard power outlet. Because it is slow, charging over night makes most sense. Therefore, charging at some sort of accomodation is ideal. Boran has travelled the Sahara part of Morrocco in 2019 in this style: requesting a bed and breakfast with a power outlet, or checking on a campsite that electricity is actually available.
 
-In the long run, cheaper costs of electricity can compensate the higher initial purchase price, making an electric vehicle actually a the less expensive choice. 
+In the long run, cheaper costs of electricity can compensate the higher initial purchase price, making an electric vehicle actually the less expensive choice. 
 
 {pagebreak}
 
