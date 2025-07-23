@@ -20,6 +20,8 @@ On the simplest end of electrical installation (230 Volt), an EV has actually mo
 
 In the long run, cheaper costs of electricity can compensate the higher initial purchase price, making an electric vehicle actually a the less expensive choice. 
 
+{pagebreak}
+
 ## Roof Tent
 
 ![Roof Tent on Öland, Sweden](roof-tent-oeland.jpg)
