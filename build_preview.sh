@@ -1,4 +1,5 @@
 git commit -am "$*"
+
 git push
-./get_status.sh
-./get_preview_pdf.sh
+
+./status_and_download.sh
