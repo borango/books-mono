@@ -6,6 +6,7 @@ Below is a table that outlines the 12 principles of permaculture and how they ca
 
 Our thoughts here are not designed to teach permaculture. If you are familiar with permaculture already, you may find these principles useful for thinking about how to travel in a more sustainable way.
 
+{caption: "Mapping Permaculture Principles to Eco Travel"}
 | # | Principle Name | Definition (Farming Context) | Transfer to Eco Travel |
 |---|----------------|------------------------------|------------------------|
 | 1 | Observe and Interact | Carefully observe natural systems to design solutions that work with the environment.| Learn about destinations, adapt to local customs, and travel thoughtfully to respect environments. |
