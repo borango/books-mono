@@ -1,3 +1,7 @@
+---
+title: Intro - The authors - Boran
+---
+
 ### Boran
 
 Rock climber, paragliding pilot, sailor and engineer.
@@ -11,3 +15,5 @@ Life coach and strategy consultant for hire.
 Loves people, dogs and nature.
 
 Believes in freedom and peace.
+
+![Boran's portrait](res/20250709_074842__Boran.jpg)
