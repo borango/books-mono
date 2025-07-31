@@ -42,6 +42,8 @@ Understanding your needs, developing new habits, inventing procedures and discov
 
 In this book we will tell you everything about the hacks and simple systems that we created and applied on our journeys. We have heard that our stories inspire people, so we want to inspire and encourage you all to live your dreams and build your own Eco Travel system.
 
+* * * 
+
 ## The authors
 
 Who are we? Two voyagers who met and recognized our shared passion for travel, people and the planet. We learned a lot from each other and decided to to share our knowledge and experience with you.
