@@ -2,6 +2,7 @@
 author_flo.md
 author_boran.md
 basics.md   
+energy.md
 on_foot.md  
 by_car.md	
 by_boat.md
