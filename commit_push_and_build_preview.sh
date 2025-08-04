@@ -6,7 +6,7 @@ git push
 # ... NOT 
 # (currently disabled so that author has control over build details, such as subset or full, or publish)
 
-./trigger_preview.sh
+./trigger_preview.sh subset
 
 # triggering preview script (before) also downloads
 # ./status_and_download.sh
