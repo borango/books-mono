@@ -1,4 +1,4 @@
-# Hot Water
+## Hot Water
 
 Fundamental for drinks and food: having hot water available is at the core of the Eco Travel kitchen.
 
