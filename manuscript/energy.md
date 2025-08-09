@@ -1,3 +1,4 @@
+{#energy}
 # Energy
 
 If we want to manage and conserve energy, we need to develop an understanding of energy amounts.

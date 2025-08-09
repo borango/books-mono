@@ -19,9 +19,9 @@ In financial terms, sustainability means that I can travel longer or infinite if
 
 ### Systemic approach
 
-Eco Travel is a system. A system of needs, choices, procedures, tools and habits. A system within a geographical, climatic and cultural context.
+Eco Travel is a system. A system of needs, choices, procedures, equipment and habits. A system within a geographical, climatic and cultural context.
 
-Typically the system will evolve, based on changing opportunities and constraints, new priorities in needs, adjusted choices, better procedures and different tools. Habits will both begin the evolution (begin with what you like to do), and some changed or new habits will be the result of the evolution.
+Typically the system will evolve, based on changing opportunities and constraints, new priorities in needs, adjusted choices, better procedures and different equipment. Habits will both begin the evolution (begin with what you like to do), and some changed or new habits will be the result of the evolution.
 
 ### Choice
 

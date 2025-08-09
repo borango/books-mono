@@ -66,8 +66,8 @@ Test for an endnote: [^^xen]
 
 ## External Hyperlinks
 
-+  https://leanpub.com/
-+ [https://leanpub.com/](https://leanpub.com/) *Leanpub does not seem to use linkify*
++  https://leanpub.com/ *just the URL, no explicit markdown hyperlink*
++ [https://leanpub.com/](https://leanpub.com/) *MD hyperlink since Leanpub does not seem to use linkify*
 + [kxfm Portfolio on Observable](https://kxfm.observablehq.cloud/1/)
 
 
