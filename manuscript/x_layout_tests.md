@@ -5,11 +5,15 @@ A chapter to test different technical features, such as Markdown tags and images
 ## a - inline diagram
 Leanest case: ${digraph `root -> intermediate -> result`} inline client-side diagram 
 
+*(works ONLY in Observable Framework, not in Leanpub)*
+
 ## b - code block diagram
 Client-side diagram from fenced code block:
 ```js
 digraph`more[label="more ..."] root -> intermediate -> more -> symptom`
 ```
+
+*(works ONLY in Observable Framework, not in Leanpub)*
 
 ## c - as above plus VisCo 
 Client-side diagram from fenced code block, plus Visco initialization:
@@ -22,9 +26,11 @@ digraph`more[label="..."] root -> intermediate -> more -> result  node[label="si
  )
 ```
 
-Test cases a - c above all take their diagram definition from within this markdown document (in Observable Framework). This requires a proprietary Markdown extension by Observable, a technique which is not compatible with Leanpub. However it is great for first draft documents, which can be written and previews in Obs Framework Dev server. 
+*(works ONLY in Observable Framework, not in Leanpub)*
 
-Before publishing them on Leanpub, such diagrams need to be refactored: extract DOT code from MD manuscript to a new file, standard data loader for conversion of DOT to SVG, then replace reference in MD manuscript to MD image tag (such as in test case d)
+Test cases a - c above all take their diagram definition from within this markdown document (in Observable Framework). This requires a proprietary Markdown extension by Observable, a technique which is not compatible with Leanpub. However it is great for first draft documents, which can be written and previewed in Obs Framework Dev server. 
+
+Before publishing them on Leanpub, such diagrams need to be refactored: extract DOT code from MD manuscript to a new file, use an Observable data loader for conversion of DOT to SVG, then replace reference in MD manuscript to MD image tag (such as in test case d)
 - - -
 
 ## d - SVG image
@@ -35,7 +41,7 @@ Mind that an SVG *image* can't be interactive. This is perfectly fine in books (
 ![examples of differenty topologies of causality](causality-topology.svg)
 SVG image, coded as markdown (for Leanpub) and softlinked the SVG file resource for Obs
 
-**This is the only compatible technique which works in Leanpub AND Obs Framework (only if we apply the softlink hack)**
+**This is the only compatible technique which works in Leanpub AND Obs Framework (and only if we apply the softlink hack)**
 
 Also this technique has the best potential for re-using the diagram, as its (DOT) source is kept as a separate file, and the SVG gets generated automatically (by Obs Framework Preview server, or Obs Framework Build process).
 
@@ -52,6 +58,21 @@ There are two reasons why this is not a useful workflow for a manuscript which i
 
 Hence, here is not even an attempt to inline SVG code.
 
+- - -
+
+## f - Graphviz (dot) code block
+
+```dot
+digraph {
+rankdir=BT
+node [shape=box, style=rounded]
+cause -> effect
+}
+```
+
+This is lacking the interactive VisCo features, but is a nice simple way for adhoc diagrams that render in Observable and in the VIM MarkdownPreview plugin.
+
+*(works ONLY in Observable Framework and VIM MarkdownPreview, not in Leanpub)*
 
 ## Footnotes and Endnotes
 
@@ -66,8 +87,8 @@ Test for an endnote: [^^xen]
 
 ## External Hyperlinks
 
-+  https://leanpub.com/
-+ [https://leanpub.com/](https://leanpub.com/) *Leanpub does not seem to use linkify*
++  https://leanpub.com/ *just the URL, no explicit markdown hyperlink*
++ [https://leanpub.com/](https://leanpub.com/) *MD hyperlink since Leanpub does not seem to use linkify*
 + [kxfm Portfolio on Observable](https://kxfm.observablehq.cloud/1/)
 
 
