@@ -1,10 +1,2 @@
-1_intro.md  
-author_flo.md
-author_boran.md
-basics.md   
-energy.md
-on_foot.md  
-by_car.md	
-by_boat.md
-permaculture.md
-unit_test_chapter.md
+1_intro.md
+z_commons_author_boran.md
