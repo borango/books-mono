@@ -1,9 +1,9 @@
 ![](resources/title_page.png)
 
-# Eco Travel 
+# *Book Title*
 
-on Foot, by Car or Boat - low budget
-and highly sustainable
+on Foot, by Bicycle, Car or Sailboat
+
 
 Boran Gögetap and Flojito Stillnet
 

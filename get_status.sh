@@ -1,7 +1,7 @@
 echo "Waiting for preview to complete..."
 while true; do
   sleep 5  # wait immediately after requesting a job, and before next iteration (otherwise the response may reflect the previous job)
-  STATUS=$(curl -s https://leanpub.com/eco-travel/job_status.json?api_key=225BD9FEE6634FFDB6875DC5CA7B804C | jq)
+  STATUS=$(curl -s https://leanpub.com/$(./get_slug_from_branch.sh)/job_status.json?api_key=$LEANPUB_API_KEY | jq)
   
   NUM=$(echo "$STATUS" | jq -r '.num // "?"')
   TOTAL=$(echo "$STATUS" | jq -r '.total // "?"')
