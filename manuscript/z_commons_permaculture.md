@@ -4,12 +4,10 @@
 1. **Observe and Interact**
 
    Take time to observe natural systems and interact with the environment to better understand how it functions and to make decisions that work in harmony with nature.
-
 {#pp02}
 1. **Catch and Store Resources**
 
    Capture resources like sunlight, water, and wind when they are abundant to make them available during times of need.
-
 {#pp03}
 1. **Obtain a Yield**
 

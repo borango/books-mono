@@ -6,7 +6,7 @@ With hot water, you can prepare tea and coffee. You can also prepare (I don't wa
 
 You can prepare and carry hot water in a any mode of transportation: on foot, and even easier in a vehicle.
 
-Boiling water requires quite some energy (200 Wh per liter, see chapter on [Energy](#energy)). Therefore it is best to keep hot water, that you do not use immediately, in a thermos. This aligns with the Permaculture Principle [#2 Catch and Store Energy](#pp02).
+Boiling water requires quite some energy (200 Wh per liter, see chapter on [Energy](#energy)). Therefore it is best to keep hot water, that you do not use immediately, in a thermos. This aligns with the Permaculture Principle [#2 Catch and Store Resources](#pp02).
 
 Three liters of hot water contain the same amount of energy which is equivalent to half of a standard car battery. Imagine that: boiling 3 liters of water will empty half of your car battery. 
 
