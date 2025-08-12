@@ -23,7 +23,7 @@ In the long run, cheaper costs of electricity can compensate the higher initial 
 
 ## Roof Tent
 
-![Roof Tent on Öland, Sweden](roof-tent-oeland.jpg)
+![Roof Tent on Öland, Sweden](res/IMG_20210910_081056_116.jpg)
 
 If your car is smaller than a typical recreational vehicle or camper and you wish for more space, then I can only recommend a root tent. It is relatively inexpensive (compared to buying a larger vehicle) and compatible with most cars or trucks. That simplifies the investment decision, because you can add a roof tent to your existing car now, and carry it over to a new car or truck later.
 
