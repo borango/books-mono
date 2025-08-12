@@ -1,4 +1,4 @@
-![](resources/causality-topology.svg)
+![](resources/title_page.png)
 
 # Causality Course
 
