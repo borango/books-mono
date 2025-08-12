@@ -1,11 +1,28 @@
+# gitattributes in all book branches shall be identical
+# but different in the template branches
+# so in doubt, we keep out version
+.gitattributes            merge=keep
+
+# different in every book branch, even between preview and publish
 observablehq.config.js    merge=keep
+
+# different in every book branch, only applies to -preview branch
 preview_id.txt            merge=keep
 
+#
+# no in general, no sycnhronization of the manuscripts
 manuscript/index.md       merge=keep
+manuscript/Book.txt       merge=keep
 manuscript/Subset.txt     merge=keep
 manuscript/1_intro.md     merge=keep
 
 manuscript/*.md           merge=keep
-manuscript/z_commons_*.md merge=
 
+# but yes, we want to synchronize all "common" markdown files back to template
+# but not add ALL new files from template to books
+manuscript/z_commons_*.md merge=keep
+
+#
+# for book branches there shall be no automatic incoming new (shared) resources
+# merge them manually with --no-ff --no-commit, then add as needed
 manuscript/resources/*    merge=keep
