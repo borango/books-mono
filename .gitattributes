@@ -1,0 +1,11 @@
+observablehq.config.js    merge=keep
+preview_id.txt            merge=keep
+
+manuscript/index.md       merge=keep
+manuscript/Subset.txt     merge=keep
+manuscript/1_intro.md     merge=keep
+
+manuscript/*.md           merge=keep
+manuscript/z_commons_*.md merge=
+
+manuscript/resources/*    merge=keep
