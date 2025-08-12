@@ -11,8 +11,8 @@ if [ ! -d "160_res" ]; then
 fi
 
 # Print header
-printf "%-30s %15s %15s\n" "Filename" "highres" "160_res"
-printf "%-30s %15s %15s\n" "--------" "-------" "-------"
+printf "%-40s %10s %10s\n" "Filename" "highres" "160_res"
+printf "%-40s %10s %10s\n" "--------" "-------" "-------"
 
 # Function to get file size in human-readable format
 get_size() {
@@ -32,5 +32,5 @@ for file in $files; do
   lowres_file="160_res/$file"
   highres_size=$(get_size "$highres_file")
   lowres_size=$(get_size "$lowres_file")
-  printf "%-30s %15s %15s\n" "$file" "$highres_size" "$lowres_size"
+  printf "%-40s %10s %10s\n" "$file" "$highres_size" "$lowres_size"
 done
