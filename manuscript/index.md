@@ -2,12 +2,11 @@
 
 # *Book Title*
 
-on Foot, by Bicycle, Car or Sailboat
+*Subtitle*
 
+*author(s)*
 
-Boran Gögetap and Flojito Stillnet
-
-This book is available at https://leanpub.com/eco-travel
+This book is available at https://leanpub.com/--slug--
 
 This version was published on x.y.z
 
@@ -19,7 +18,7 @@ the act of publishing an in-progress ebook using lightweight tools
 and many iterations to get reader feedback, pivot until you have
 the right book and build traction once you do.
 
-© 2025 Boran Gögetap and Flojito Stillnet
+© *year, author(s)*
 
 # Contents
 
