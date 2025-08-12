@@ -4,7 +4,7 @@
 
 Rock climber, paragliding pilot, sailor and engineer. Converted sailboats to 100% green energy for sustainable, autonomous life.
 
-Full-time traveller since 2020, between the Arctic circle and the Sahara desert, in an electric car or on electric sailboats - producing "zero emissions".
+Fascinated by complexity and by strategies to master it - on one side. On the other side, loves simplicity and minimalism.
 
 Loves people, dogs and nature.
 

@@ -1,11 +1,13 @@
-![](resources/title_page.png)
+![](resources/causality-topology.svg)
 
-# Eco Travel yourself
+# Causality Course
 
-on Foot, by Bicycle, Car or Sailboat
+&nbsp;
+
+## A Practical Guide to Information Modelling and Causal Inference
 
 
-Boran Gögetap and Flojito Stillnet
+Boran Gögetap
 
 This book is available at https://leanpub.com/eco-travel
 
@@ -19,7 +21,7 @@ the act of publishing an in-progress ebook using lightweight tools
 and many iterations to get reader feedback, pivot until you have
 the right book and build traction once you do.
 
-© 2025 Boran Gögetap and Flojito Stillnet
+© 2025 Boran Gögetap
 
 # Contents
 
