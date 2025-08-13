@@ -1,28 +1,41 @@
+# merges into a book branch (be it from a templates branch or another book branch)
+# are always done selectively, typically with --no-ff --no-commit,
+# then git checkout files from the source branch, then git add + git commit
+
+*                         merge=ours
+
 # gitattributes in all book branches shall be identical
 # but different in the template branches
-# so in doubt, we keep out version
-.gitattributes            merge=keep
+.gitattributes            merge=ours
 
 # different in every book branch, even between preview and publish
-observablehq.config.js    merge=keep
+observablehq.config.js    merge=ours
 
 # different in every book branch, only applies to -preview branch
-preview_id.txt            merge=keep
+preview_id.txt            merge=ours
 
 #
 # no in general, no sycnhronization of the manuscripts
-manuscript/index.md       merge=keep
-manuscript/Book.txt       merge=keep
-manuscript/Subset.txt     merge=keep
-manuscript/1_intro.md     merge=keep
+manuscript/index.md       merge=ours
+manuscript/Book.txt       merge=ours
+manuscript/Subset.txt     merge=ours
+manuscript/1_intro.md     merge=ours
 
-manuscript/*.md           merge=keep
+manuscript/*.md           merge=ours
 
 # but yes, we want to synchronize all "common" markdown files back to template
 # but not add ALL new files from template to books
-manuscript/z_commons_*.md merge=keep
+manuscript/z_commons_*.md merge=ours
 
 #
 # for book branches there shall be no automatic incoming new (shared) resources
 # merge them manually with --no-ff --no-commit, then add as needed
-manuscript/resources/*    merge=keep
+manuscript/resources/*    merge=ours
+
+# exception are the script utilities, which are always shared
+*.sh                      merge=
+
+# exception to the exception are the downsampling scripts,
+# because downsampling is done in a template branch
+# only merging some files from either highres or 160_res into on book branch
+manuscript/resources/*.sh merge=ours
