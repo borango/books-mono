@@ -1,12 +1,12 @@
 ![](resources/title_page.png)
 
-# *Book Title*
+# Leanpub Commons
 
-*Subtitle*
+shared manuscript resources
 
-*author(s)*
+Boran Gögetap
 
-This book is available at https://leanpub.com/--slug--
+This book is available at https://leanpub.com/develop
 
 This version was published on x.y.z
 

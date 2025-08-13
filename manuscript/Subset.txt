@@ -1,3 +1,8 @@
 1_intro.md
 z_commons_author_boran.md
 z_commons_unit_test_chapter.md
+z_commons_energy.md
+z_commons_hot_water.md
+z_commons_permaculture.md
+z_commons_silicone_spoon.md
+

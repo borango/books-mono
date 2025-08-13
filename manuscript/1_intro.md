@@ -2,30 +2,28 @@
 
 # Intro <!-- leanpub style: H1 for chapter title -->
 
-*intro text per book here*
+Image resources shall always be inserted via the symlinked folder `res/` so that the preview / publish versions can use lowres / highres images.
 
-*this is a template file which should exist for each book, but it will be different and is typically not shared between books*
+Some figures:
 
-*note that this template also contains Leanpub Markua document properties*
+![](res/20240220_113317~2.jpg)
 
-Procedure for creating a new book:
+![](res/20250709_074842__Boran.jpg)
 
-1. `git checkout template && git ckeckout -b new-book/preview`
-1. adjust `title` in `observablehq.config.js` to ***new-book***
-1. adjust perhaps `index.md` and `1_intro.md` now (or later)
-1. `git commit -m init && git push`
-1. Leanpub UI: clone ***template*** 
-1. go to the clone's settings, change URL to ***new-book***
-1. change writing mode to GitHub
-1. specify repo `borango/leanpub-mono` and branch `new-book/preview`
-1. change Book Cover to *manuscript*
-1. create Subset preview from Web UI
-1. copy Preview PDF download link
-1. adjust `preview_id.txt` to contain only the UID part of the URL
-1. `./commit_push_and_build_preview.sh testing CLI`
-1. you should see the downloaded PDF which opens automatically
+![](res/20250713_134306~2_sailboat_energy.jpg)
 
-* * * 
+![](res/boatassistant_energy_portrait.png)
 
-## The authors
+![](res/DSC00893_brenta_camping_aspect_2_3.png)
 
+![](res/feather_writing.jpg)
+
+![](res/happiness_value_map.png)
+
+![](res/IMG_20190911_210914.jpg)
+
+![](res/IMG_20210910_081056_116.jpg)
+
+![](res/_SDI1897~2.JPG)
+
+## About the autor
