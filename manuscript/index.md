@@ -1,8 +1,8 @@
 ![](resources/title_page.png)
 
-# *Book Title*
+# Boat Assistant
 
-*Subtitle*
+integrate all your battery, solar and NMEA data into a single automation solution
 
 *author(s)*
 
