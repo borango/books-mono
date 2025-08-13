@@ -2,13 +2,11 @@
 
 # Intro <!-- leanpub style: H1 for chapter title -->
 
-*intro text per book here*
-
 *this is a template file which should exist for each book, but it will be different and is typically not shared between books*
 
 *note that this template also contains Leanpub Markua document properties*
 
-Procedure for creating a new book:
+## *Procedure for creating a new book*
 
 1. `git checkout template && git ckeckout -b new-book/preview`
 1. adjust `title` in `observablehq.config.js` to ***new-book***
