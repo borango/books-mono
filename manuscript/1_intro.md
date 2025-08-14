@@ -12,9 +12,9 @@
 1. adjust `title` in `observablehq.config.js` to ***new-book***
 1. adjust perhaps `index.md` and `1_intro.md` now (or later)
 1. (cover picture adding subroutine here) (or later)
-1. `git add . && git commit -m init && git push`
+1. `git add . && git commit -m init && git push -u origin new-book/preview`
 
-1. Leanpub UI: clone ***template*** - the clone will appear in your stealthed books
+1. Leanpub UI: [clone template book](https://leanpub.com/template/clone) - the clone will appear in your [stealthed books](https://leanpub.com/author_dashboard/books/stealth) as [template-clone](https://leanpub.com/template-clone/settings/overview)
 1. (unstealth if you want now or later)
 1. go to the clone's settings, change URL to ***new-book***
 1. About: change the book title to ***new-book*** or it will appear as a confusing duplicate of ***template***
