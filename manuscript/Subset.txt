@@ -1,5 +1,4 @@
 1_intro.md
-author_flo.md
 z_commons_author_boran.md
 
 fundamentals.md
@@ -9,10 +8,6 @@ equipment.md
 z_commons_silicone_spoon.md
 
 z_commons_energy.md
-
-on_foot.md
-
-by_car.md
 
 by_boat.md
 

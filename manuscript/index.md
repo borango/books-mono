@@ -1,13 +1,13 @@
 ![](resources/title_page.png)
 
-# Eco Travel yourself
+# Eco Sailing
 
-on Foot, by Bicycle, Car or Sailboat
+ultimate freedom and 100% renewable resources
 
 
-Boran Gögetap and Flojito Stillnet
+Boran Gögetap
 
-This book is available at https://leanpub.com/eco-travel
+This book is available at https://leanpub.com/eco-sailing
 
 This version was published on x.y.z
 
