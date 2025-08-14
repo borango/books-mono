@@ -1,12 +1,12 @@
 ![](resources/title_page.png)
 
-# *Book Title*
+# Seasick No More
 
-*Subtitle*
+A Practical Program to Cure and Prevent Seasickness
 
-*author(s)*
+Boran Gögetap
 
-This book is available at https://leanpub.com/--slug--
+This book is available at https://leanpub.com/seasick-no-more/
 
 This version was published on x.y.z
 

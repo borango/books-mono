@@ -4,7 +4,7 @@ import MarkdownItFootnote from "markdown-it-footnote";
 
 export default {
 
-  title: "template manuscript",   // used in the sidebar and webpage titles
+  title: "Seasick No More PREVIEW",   // used in the sidebar and webpage titles
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
