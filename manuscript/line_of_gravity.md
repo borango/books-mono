@@ -2,25 +2,29 @@
 
 ```js
 dot`digraph{
-ranksep=.5
 
-{node [style=invis shape=none label=o]
- invis4
- invis0 invis1
- invis2 invis3
+A [shape=point]
+ 
+G [label=Gravity  shape=none]
+
+I [label=illusion shape=none]
+
+{node [style=invis label=""]
+ invis0 [label=illusion]
 }
 
-bottom [label="o" shape=none height=.3 fixedsize=true]
+A -> G [color=grey style=dashed]
+A -> I [color=grey style=dotted]
 
-
-invis0 -> invis1 [style=invis]
-invis1 -> bottom [style=dashed arrowhead=vee ]
-bottom -> invis2 [style=invis]
-{rank=same invis2 invis3 invis4}
-
+{ edge [style=invis] 
+invis0 -> I
+invis0 -> G
+}
+ 
 }`
 ```
 
+... and with some padding around
 ```js
 dot`digraph{
 
@@ -46,6 +50,30 @@ G -> invis2 [style=invis]
 }`
 ```
 
+alternative design with some padding around
+```js
+dot`digraph{
+ranksep=.5
+
+{node [style=invis shape=none label=o]
+ invis4
+ invis0 invis1
+ invis2 invis3
+}
+
+bottom [label="o" shape=none height=.3 fixedsize=true]
+
+
+invis0 -> invis1 [style=invis]
+invis1 -> bottom [style=dashed arrowhead=vee ]
+bottom -> invis2 [style=invis]
+{rank=same invis2 invis3 invis4}
+
+}`
+```
+
+
+design with typography integrated
 ```js
 dot`digraph{
 
@@ -58,5 +86,6 @@ dot`digraph{
 }`
 ```
 
+- - -
 
-*(works ONLY in Observable Framework, not in Leanpub - TODO: extract to SVG)*
+*(all the above works ONLY in Observable Framework, not in Leanpub - TODO: extract to SVG)*
