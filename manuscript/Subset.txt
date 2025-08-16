@@ -8,6 +8,7 @@ equipment.md
 z_commons_silicone_spoon.md
 
 z_commons_energy.md
+batteries.md
 
 by_boat.md
 

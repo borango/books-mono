@@ -19,7 +19,7 @@ Yes I do. Just 5 minutes earlier this has been my meal. A healthy one I might ad
 
 ### Where not to use
 
-Avoid very sharp edges, such as from a tin can, or a knife obviously. Tin can edges will cut the silicone.
+Avoid very sharp edges, like the opening of a tin can, or a knife obviously. They will cut the silicone.
 
 ### Which to buy
 
