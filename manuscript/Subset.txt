@@ -1,4 +1,3 @@
 1_intro.md
-z_commons_author_boran.md
+seawellness_author_boran.md
 summary.md
-wip.md
