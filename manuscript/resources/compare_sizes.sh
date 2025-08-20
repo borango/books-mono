@@ -1,5 +1,8 @@
 #!/bin/bash
 
+col1=42
+col2=10
+
 # Check if directories exist
 if [ ! -d "highres" ]; then
   echo "Error: 'highres' directory not found"
@@ -11,8 +14,8 @@ if [ ! -d "160_res" ]; then
 fi
 
 # Print header
-printf "%-40s %10s %10s\n" "Filename" "highres" "160_res"
-printf "%-40s %10s %10s\n" "--------" "-------" "-------"
+printf "%-${col1}s %${col2}s %${col2}s\n" "Filename" "highres" "160_res"
+printf "%-${col1}s %${col2}s %${col2}s\n" "--------" "-------" "-------"
 
 # Function to get file size in human-readable format
 get_size() {
@@ -32,5 +35,5 @@ for file in $files; do
   lowres_file="160_res/$file"
   highres_size=$(get_size "$highres_file")
   lowres_size=$(get_size "$lowres_file")
-  printf "%-40s %10s %10s\n" "$file" "$highres_size" "$lowres_size"
+  printf "%-${col1}s %${col2}s %${col2}s\n" "$file" "$highres_size" "$lowres_size"
 done
