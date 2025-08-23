@@ -5,7 +5,7 @@ Here is a summary of the method, with little explanation.
 You can use it as a quick reference for an immediate cure (when you feel symptoms of seasickness) or while you are training the method.
 
 
-## 1. Know True Gravity
+## Goal: Know True Gravity
 
 > Always *know* where the line of true gravity points to. 
 
@@ -21,7 +21,7 @@ The ultimate goal for preventing seasickness is *knowing* the Line of Gravity.
 
 *Knowing* is possible in every situation that you might be in, and it is the key to not being seasick. Therefore, seek this knowledge. You can support this mental task with various physical exercises or strategies.
 
-## 2. Do not lock your body
+## Principle 1: Do not chain your body to the boat {#P1}
 
 > Do not lock or couple your body to the boat structure.
 
@@ -46,9 +46,11 @@ Avoid those positions. Better positions which you can quickly adjust are:
 
 A special case of your body being partially coupled to the boat is when you are laying down. It is not necessarily bad. You can feel perfectly comfortable while laying down and sleeping. We will handle this one separately.
 
-## 3. Stand Vertically
+## Principle 2: Stand Vertically {#P2}
 
-If your task or situation allows, then stand up. 
+> If your task or situation allows, then stand up. 
+
+This is the best way to follow Principle 1.
 
 A good example of a suitable situation is in the helm. If you have the choice between sitting or standing, and you tend to feel seasick, then stand up. With wheel steering you can typically stand up. With tiller steering, you can stand up if you have a tiller extension installed. You can improvise a tiller extension with rope (obviously only for pulling the tiller, not for pushing).
 
@@ -65,9 +67,11 @@ At first, it seems counter-intuitive to let go of the boat structure. Intuitivel
 You can hold on gently with one hand to something solid, like the mast or boom or a handle. If you do, make sure that your arm is bent and flexible. You arm shall constantly compensate the distance between your truly vertical body and the boat's structure. The goal here is to hold on only as much as necessary, and as little as possible. Often your grip is just a safety measure: you apply zero force but have your hand in secure place where you can firmly hold on if you needed (when you get surprise by a wave or any other unexpteced boat motion).
 
 
-## Sit with free-floating upper body
+## Principle 3: Sit with free-floating upper body
 
-When you cannot or do not want to stand up, but rather sit, then at least allow your upper body to "float freely", i.e. do not lock your upper body.
+> When you need to sit, then at least allow your upper body to "float freely", i.e. do not lock your upper body.
+
+This is the second-best way to follow [Principle #1](#P1).
 
 When sitting, your lower body (feet, legs, hips) are already locked.
 
@@ -83,9 +87,9 @@ A variation of this principle is to sit with your eyes closed, and let your uppe
 Only perform this variation when you are feeling perfectly well, because closing your eyes could increase the chance of seasickness.
 When there is no boat motion, then there is no point in this exercise.
 
-## Surf the boat
+## Ex 1: Surf the boat
 
-This is a variation of principle #3, Stand Vertically. Boat surfing can be a fun exercise and an intermediate step in your training for standing vertically.
+This is a variation of principle #2, Stand Vertically. Boat surfing can be a fun exercise and an intermediate step in your training for standing vertically.
 
 The difference between Boat Surfing and Standing Vertically is this: in Boat Surfing, you spread your legs and bend your knees slightly, similar to a surfing stance. Do not hold on to anything. Just like in surfing, compensate boat motion primarily with your upper body, and also with the help of your arms as countering weights, and with the angles of your knees. 
 
@@ -102,9 +106,9 @@ While you are boat-surf as an active exercise, you will be very focussed and com
 Standing vertically is like surfing the boat, just with minimal compensating movements, mostly in your ankles.
 
 
-## Stand on One Leg
+## Ex 2: Stand on One Leg
 
-Another playful variation of principle #3, Stand Vertically.
+Another playful variation of principle #2, Stand Vertically.
 
 Standing upright on one leg is already a bit of a challenge even on land. If you haven't done that in a while (since your childhood?) then now is a good time to start practicing it.
 
@@ -117,7 +121,7 @@ This exercise has no practical application in sailing, it is merely a fun activi
 A further variation of Standing on One Leg is to do it with your eyes closed. This is more challenging because you remove visual clues. Only perform this variation when you are feeling perfectly well, because closing your eyes could increase the chance of seasickness.
 
 
-## Look at the Horizon
+## Remedy 1: Look at the Horizon
 
 This one is probably the most popular advice against seasickness, and it certainly works.
 
@@ -132,7 +136,7 @@ The floors and decks of the boat are just an illusion for "horizontal". If you f
 You can combine *looking* and *feeling*: Stand vertically while looking that the horizon, or boatsurf while looking at the horizon. You should always combine all possible visual and tactile clues you can get, especially in an acute state of seasickness.
 
 
-## Don't Look Down
+## Remedy 2: Don't Look Down
 
 This is obviously one of many negations of the horizon-looking principle. 
 
@@ -140,3 +144,14 @@ Looking down is the worst visual clue that you can choose when the boat is movin
 
 If you start feeling symptoms while looking down, then stop whatever you do, look at the horizon if it is visible, or at least put your head in the best possible vertical position.
 
+## Remedy 3: Stand Vertically
+
+If you do not stand vertically already, then change your body position to stand vertically. 
+
+This is [Principle #2](#P2) applied as an immediate remedy.
+
+## Remedy 4: Sit free-floating
+
+If you cannot stand up, because your are below deck, or because of extreme seastate, then allow your upper body to "float freely".
+
+This is [Principle #3](#principle-3-sit-with-free-floating-upper-body) applied as an immediate remedy.

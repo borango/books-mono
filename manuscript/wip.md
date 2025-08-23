@@ -1,3 +1,6 @@
+---
+title: WIP
+---
 ## Simple Explanation
 
 You might have heard some of the simple explanation for seasickness: a conflict between the *expected* and the *actual* state of motion. Or: a difference between what *you see* and what your internal gyroscopes (ears) *perceive*.
