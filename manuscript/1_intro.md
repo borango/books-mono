@@ -1,5 +1,3 @@
-{list-figures: groups}
-
 # Intro <!-- leanpub style: H1 for chapter title -->
 
 &nbsp;
@@ -30,7 +28,3 @@ Typically the system will evolve, based on changing opportunities and constraint
 Understanding your needs, developing new habits, inventing procedures and discovering external resources along along your way are keys to successful Eco Travel.
 
 In this book we will tell you everything about the hacks and simple systems that we created and applied on our journeys. We have heard that our stories inspire people, so we want to inspire and encourage you all to live your dreams and build your own Eco Travel system.
-
-* * * 
-
-## The author

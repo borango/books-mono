@@ -1,7 +1,7 @@
 .DS_Store
 dist/
 manuscript/.observablehq/cache/
-node_modules/
+node_modules
 yarn-error.log
 *.swp
 *.tgz

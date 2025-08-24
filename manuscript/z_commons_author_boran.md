@@ -1,6 +1,12 @@
-<!-- note that Observable frontmatter (such as a title) will be interpreted as a HR and literal markdown by Leanpub, so we cannot use it in order to inject a title in markdown files which do not begin with a # H1 --> 
+---
+title: About the author
+---
 
-### Boran
+<!-- note that Observable frontmatter (such as a title) will be interpreted as a HR and literal markdown by Leanpub --> 
+
+* * * 
+
+## About the author
 
 Rock climber, paragliding pilot, sailor and engineer. Converted sailboats to 100% green energy for sustainable, autonomous life.
 

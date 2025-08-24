@@ -1,3 +1,6 @@
+---
+title: Batteries
+---
 ## Batteries
 
 On a sustainable and autonomous boat, batteries play a larger role. Obviously to store energy between the time you can harvest it (from sun and wind), and the time when you need it (for engines, cooking, lights, instruments and you-name-it).

@@ -1,36 +1,18 @@
+---
+title: Eco Sailing
+subtitle: Ultimate Freedom and 100% Renewable Resources
+subject:  Ultimate Freedom and 100% Renewable Resources
+abstract: Ultimate Freedom and 100% Renewable Resources
+keywords: travel sailing freedom renewable energy resources sustainability eco ecology environment
+author: Boran Gögetap
+date: \today
+titlepage: true
+titlepage-image: resources/title_page.png
+toc: true
+
+colorlinks: true
+linkcolor: blue
+urlcolor: red
+---
+
 ![](resources/title_page.png)
-
-# Eco Sailing
-
-ultimate freedom and 100% renewable resources
-
-
-Boran Gögetap
-
-This book is available at https://leanpub.com/eco-sailing
-
-This version was published on x.y.z
-
-Leanpub logo
-
-This is a Leanpub book. Leanpub empowers authors and
-publishers with the Lean Publishing process. Lean Publishing is
-the act of publishing an in-progress ebook using lightweight tools
-and many iterations to get reader feedback, pivot until you have
-the right book and build traction once you do.
-
-© 2025 Boran Gögetap and Flojito Stillnet
-
-# Contents
-
-...
-
-# List of Figures
-
-...
-
-# List of Tables
-
-...
-
-*this page is a proxy for the book cover and 3 lists, on Observable Frameworki; Leanpub generates this content automatically; this page source is not part of the Leanput manuscript*

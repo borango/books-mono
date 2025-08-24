@@ -1,3 +1,6 @@
+---
+title: Permaculture Mapping
+---
 Mapping the Permaculture Principles to Eco Travel
 
 | # | Principle | transfer to Eco Travel | transfer to Boat |

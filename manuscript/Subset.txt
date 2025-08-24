@@ -1,6 +1,8 @@
 1_intro.md
 z_commons_author_boran.md
 
+catch.md
+
 fundamentals.md
 z_commons_hot_water.md
 

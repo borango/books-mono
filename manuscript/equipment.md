@@ -1,13 +1,13 @@
 # Equipment
 
-> everything that we carry on a hike, or have in the car or boat, I call *equipment* - be it loose or installed.
+> everything that we carry or install in the boat, I call *equipment*.
 
-Here is a list of equipment for Eco Travel.
+Here is a list of equipment for Eco Sailing.
 
 ## Kitchen
 
-| Item | Use | Principles | F | B | C | S |
-| ---- | --- | --------- |--- |---|---|---|
-| [Silicone Spoon](#silicone_spoon) | cleaning dishes   | [2](#pp02), [6](#pp06) |Y (1)| Y | Y | Y (2)|
-| Thermos                           | keeping hot water | [2](#pp02)             |Y (1)| Y (1) | Y | Y (2)|
-| 12 V immersion heater             | boiling water     |
+| Item | Use | Principles |
+| ---- | --- | ---------  |
+| [Silicone Spoon](#silicone_spoon) | cleaning dishes   | [2 Catch](#pp02), [6 No Waste](#pp06) |
+| Thermos                           | keeping hot water | [2 Catch](#pp02)                      |
+| 12 V immersion heater             | boiling water     | [6 No Waste](#pp06), [9 Small](#pp09) |
