@@ -1,6 +1,31 @@
 digraph{ concentrate=true
 
-{ node[shape=none fillcolor="lightgreen" ]
+#
+# labelled nodes
+#
+
+ V12             [label="DC\nproduction"]
+ V12_consumption [label="DC\nconsumption"]
+#V48 [label="48 V"]
+V230 [label="AC"]
+keep_watch [label="keep watch\nat all times"]
+
+{node [label=charge] 
+ chargebatt12 
+#chargebatt48 
+}
+{node [label="power\nsupply"]
+ batt12supply 
+#batt48supply 
+}
+{node [label="boil water"] 
+boil_water_12 boil_water_solar }
+
+#
+# typed nodes
+#
+
+{ node[shape=none fillcolor="lightgreen" class=type_permaculture_principle ]
 pp01 [ label="1 observe"     tooltip="Observe and Interact" ]
 pp02 [ label="2 catch/store" tooltip="Catch and Store Resources" ]
 pp03 [ label="3 obtain"      tooltip="Obtain a Yield" ]
@@ -15,16 +40,11 @@ pp11 [ label="11 edges"      tooltip="Use Edges and Value the Marginal" ]
 pp12 [ label="12 respond to change" tooltip="Creatively Use and Respond to Change" ]
 }
 
-{ node[shape=point label=""] iv_catch iv_store_res iv_store_food iv_renewables iv_eat }
+{ node[shape=point label="" class=tyoe_anchor ] 
+iv_catch iv_store_res iv_store_food iv_renewables iv_eat iv_longterm iv_midterm }
 
-{node [label=charge] chargebatt12 
-#chargebatt48 
-}
-{node [label=power] batt12supply 
-#batt48supply 
-}
 
-{ node[ class=type_equipment style=filled penwidth=2 ]
+{ node[ style=filled penwidth=2 class=type_equipment ]
 windpilot   [label="wind\npilot"  ]
 windturbine [label="wind\nturbine"]
 batt12      [label=battery]
@@ -46,8 +66,6 @@ instruments
 #lights
 }
 
-{node [label="boil water"] boil_water_12 boil_water_solar }
-
 #
 # Clusters
 #
@@ -66,7 +84,7 @@ panels12
 #panels48 charge_controller_48 
 windturbine
 #charge_controller_turbine
-solar_stove -> boil_water_solar
+sun -> solar_stove -> boil_water_solar
 sails
 windpilot
 collect_rainwater
@@ -78,26 +96,26 @@ iv_catch
 
 subgraph cluster_store{ label="Store (other) Resources"
 {rank=same batt12 thermos water_tank }
+freshwater [label="fresh water\nsupply"]
+hot_water  [label=  "hot water\nsupply"]
 immersionheater
  chargebatt12 batt12supply
 #chargebatt48 batt48supply batt48 
-hot_water
 water_tank -> freshwater
-mung_beans
 iv_store_res
 boil_water_12
 }
 
-subgraph cluster_store_food { node [shape=cylinder] label="Store Food"
-mung_beans
-rice
-onions
-eggs
-potatoes
+subgraph cluster_store_food { iv_store_food node [shape=cylinder]    label="Store Food"
+subgraph cluster_midterm    { iv_midterm  labelloc=B fillcolor=white label="mid term"
+onions eggs potatoes
+}
+subgraph cluster_longterm   { iv_longterm labelloc=B fillcolor=white label="long term"
 sunflower_seeds
 raisins
 peanut_butter
-iv_store_food
+mung_beans
+rice
 oatmeal
 soy_sauce
 mustard
@@ -106,31 +124,51 @@ rice
 falafel_mix
 mayonaise
 }
+} # END Store Food
 
-subgraph cluster_eat{ iv_eat label="Eat"
-tortilla_es [label="Tortilla\nEspanol"]
-{mayonaise boiled_potatoes onions} -> potato_salad
-{boiled_rice fried_onions } -> rice_tika_masala
+subgraph cluster_eat{ iv_eat label="(Cook and) Eat"
+tortilla_es      [label="Tortilla\nEspanol"]
+rice_tika_masala [label="Rice Tika\nMasala"]
+subgraph cluster_no_cooking{ fillcolor=white label="no cooking at all"
 {raisins sunflower_seeds} -> quick_snack
 {raisins peanut_butter} -> energy_snack
+mung_beans -> Sprouts
+{collect_seaweed olive_oil mustard} -> seaweed_salad
+}
+subgraph cluster_hot_water{ fillcolor=white label="just add hot water"
+#
+# just add hot water
 hot_water -> {
 ramen 
 #instant_soup #taboule #pasta 
 }
-{hot_water falafel_mix} -> falafel
 {hot_water raisins oatmeal sunflower_seeds} -> porridge
-{hot_water rice pot} -> boiled_rice
-{boiled_rice eggs soy_sauce} -> Tamago
-mung_beans -> Sprouts
-{solar_stove potatoes}-> boiled_potatoes
-{pan eggs potatoes fried_onions} -> tortilla_es
-{pan onions} -> fried_onions
-{pan eggs} -> omelette
-{collect_seaweed olive_oil mustard} -> seaweed_salad
 }
+#
+# quick pan
+{pan eggs} -> omelette
+{pan olive_oil hot_water falafel_mix} -> falafel
+#
+# intermediate steps
+{pot hot_water rice} -> boiled_rice
+{seawater solar_stove potatoes} -> boiled_potatoes
+{pan olive_oil onions} -> fried_onions
+#
+# multi phase recipes
+{boiled_rice eggs soy_sauce} -> Tamago
+{mayonaise boiled_potatoes onions} -> potato_salad
+{boiled_rice fried_onions } -> rice_tika_masala
+{pan eggs potatoes fried_onions} -> tortilla_es
+#
+# other cook / eat
+siliconespoon -> clean_dishes 
+siliconespoon -> { prevent_food_waste preserve_water }
+} # END cluster Eat
+{ prevent_food_waste preserve_water } -> autonomy
 
 subgraph cluster_drink{ label="Drink"
 hot_water -> {tea coffee}
+freshwater -> water
 }
 
 subgraph cluster_electro{ labelloc=B label="electro backbone" 
@@ -138,18 +176,15 @@ V12 V12_consumption inverter V230 induction_stove
 engine
 }
 
-subgraph cluster_anchoring {
+subgraph cluster_seamanship {
+
+subgraph cluster_anchoring { fillcolor=white
 shore -> anchoring
 anchor_windlass -> anchors -> anchoring
 lift_anchor -> anchors
 }
-anchoring -> autonomy
-crew -> lift_anchor 
-pp01 -> tides_waves -> { anchoring navigate }
-crew -> keep_watch -> { sailing anchoring }
-# anchoring -> rest -> crew
 
-subgraph cluster_sailing {
+subgraph cluster_sailing { fillcolor=white
 navigate
 propulsion
 sailing
@@ -160,40 +195,50 @@ instruments
 autohelm
 }
 
+instruments -> navigate-> sailing
+crew -> navigate
+crew -> handsteer -> steering
+crew -> lift_anchor 
+crew -> keep_watch -> { sailing anchoring }
+crew -> control_sails -> sailing
+
+} END Seamanship
+
 subgraph cluster_infrastructure{ labelloc=B label=Infrastructure
+public_sources
+grocery_stores
+farmers
+}
+
+#
+# EDGES
+#
 
 public_sources -> top_up -> water_tank
-groceries -> years -> { mung_beans rice }
-}
+ grocery_stores -> months_or_years -> iv_longterm
+{grocery_stores farmers} -> weeks  -> iv_midterm
+
+anchoring -> autonomy
+# anchoring -> rest -> crew
 
 rainwater -> collect_rainwater -> water_tank
 seawater  -> desalinate        -> water_tank
 
 
- V12 [label="DC\nproduction"]
- V12_consumption [label="DC\nconsumption"]
-#V48 [label="48 V"]
-V230 [label="AC"]
-
-pp06 -> siliconespoon -> { prevent_food_waste preserve_water } -> autonomy
-
 V12_consumption -> immersionheater -> boil_water_12 -> thermos -> hot_water
-pp06 -> immersionheater
-
-sun -> boil_water_solar
 boil_water_solar -> thermos
 
 # correct but high lod:
 #freshwater -> { boil_water_12 boil_water_solar }
 
-hot_water -> {wash_dishes wash_hair}
+hot_water -> {clean_dishes wash_hair}
 
  sun -> panels12 -> 
 #charge_controller_12 -> 
 V12
 #sun -> panels48 -> charge_controller_48 -> V48
 
-V12 -> V12_consumption [minlen=3]
+V12 -> V12_consumption [minlen=3] # space vertically to make room for storage in between
 
 V12-> chargebatt12 -> batt12 -> batt12supply -> V12_consumption
 
@@ -204,43 +249,48 @@ V12_consumption -> {
 #lights 
 anchor_windlass instruments}
 
-instruments -> navigate-> sailing
-crew -> navigate
-crew -> control_sails -> sailing
-
 V12_consumption ->
 #stepup -> V48
 #V48 ->
 engine -> propulsion
 
-#V48 
+#V48 # too much LOD
 V12_consumption
 -> inverter -> V230 -> {induction_stove heaters #other_appliances
 }
 
 induction_stove -> {pan pot}
+
 #wood -> collect_firewood -> wood_stove -> pan # better suited for eco-car book?
 
-crew -> handsteer -> steering
 wind -> windpilot -> steering   -> sailing
 wind -> sails     -> propulsion -> sailing -> autonomy
 wind -> windturbine ->
-#charge_controller_turbine -> 
+#charge_controller_turbine -> # too much LOD
 V12
 
 V12_consumption -> autohelm -> steering
 
+#
+# Permnaculture Validation
+#
 
-pp01 -> windspeed_direction -> control_sails
+pp01 -> tides_waves -> { anchoring navigate }
+pp01 -> windspeed_direction -> {control_sails navigate }
+pp01 -> keep_watch
+pp01 -> V12
 pp02 -> {iv_store_res iv_store_food } -> autonomy
 pp02 -> iv_catch
 pp03 -> batt12supply 
-pp04 -> windpilot
+#pp03 -> iv_store_res
+pp04 -> {windpilot panels12 windturbine}
 pp05 -> iv_renewables
+pp06 -> siliconespoon 
+pp06 -> immersionheater
 pp08 -> { shore panels12 }
 pp09 -> { sailing engine solar_stove immersionheater }
 pp10 -> iv_eat
 pp11 -> { shore panels12 }
-pp12 -> anchoring
+pp12 -> { anchoring }
 
 }

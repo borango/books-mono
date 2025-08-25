@@ -6,6 +6,8 @@ catch.md
 fundamentals.md
 z_commons_hot_water.md
 
+renewable_sunlight.md
+
 equipment.md
 z_commons_silicone_spoon.md
 
@@ -15,3 +17,6 @@ batteries.md
 eco_travl_permaculture_intro.md
 z_commons_permaculture.md
 eco_travl_permaculture.md
+
+x_appendix.md
+x_book_architecture.md

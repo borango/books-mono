@@ -16,3 +16,10 @@ urlcolor: red
 ---
 
 ![](resources/title_page.png)
+
+```{=latex}
+\begin{figure}[p]
+\centering
+\includegraphics[width=\textwidth]{resources/title_page.png}
+\end{figure}
+```

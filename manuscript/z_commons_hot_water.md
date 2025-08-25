@@ -33,7 +33,7 @@ Or in other words: keeping 3 liters of hot water is like installing an additiona
 
 - - -
 
-Clearly the most elegant solution for heating water is with direct sunlight, using a solar stove. It works best when you are stationary. While driving, sailing or swinging around an anchor it might be impossible.
+Clearly the most elegant solution for heating water is with direct [sunlight](#sunlight), using a solar stove. It works best when you are stationary. While driving, sailing or swinging around an anchor it might be impossible.
 
 A solar stove takes time to boil water - approximately 40 to 80 minutes in direct sunlight for heating all of its content, which is depending on the stove size 0.4 to 3 liters. When you are stationary you can place the solar stove in the evening so that it will catch the morning sun, and you can harvest the hot water once to slip out of your sleeping bag.
 
