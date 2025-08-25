@@ -8,6 +8,8 @@ z_commons_hot_water.md
 
 renewable_sunlight.md
 
+catch_solar-panels.md
+
 equipment.md
 z_commons_silicone_spoon.md
 
