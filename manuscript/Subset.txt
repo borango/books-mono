@@ -1,24 +1,25 @@
 1_intro.md
 z_commons_author_boran.md
 
-catch.md
-
-fundamentals.md
-z_commons_hot_water.md
-
+renewable_resources.md
 renewable_sunlight.md
 
+catch_resources.md
 catch_solar-panels.md
+
+store_resources.md
+z_commons_hot_water.md
+batteries.md
 
 equipment.md
 z_commons_silicone_spoon.md
 
-z_commons_energy.md
-batteries.md
-
+x_appendix.md
 eco_travl_permaculture_intro.md
 z_commons_permaculture.md
 eco_travl_permaculture.md
 
-x_appendix.md
 x_book_architecture.md
+
+z_commons_energy.md
+fundamentals.md

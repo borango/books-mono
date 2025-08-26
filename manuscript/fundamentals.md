@@ -1,4 +1,7 @@
-# Fundamentals
+---
+title: Fundamentals (WIP)
+---
+## Fundamentals (WIP)
 
 No matter which type of transportation, a few topics are always relevant:
 

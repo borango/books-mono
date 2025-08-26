@@ -202,7 +202,7 @@ crew -> lift_anchor
 crew -> keep_watch -> { sailing anchoring }
 crew -> control_sails -> sailing
 
-} END Seamanship
+} # END Seamanship
 
 subgraph cluster_infrastructure{ labelloc=B label=Infrastructure
 public_sources

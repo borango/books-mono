@@ -9,27 +9,29 @@ With hot water, you can prepare tea and coffee. You can also prepare (I don't wa
 
 You can prepare and carry hot water in a any mode of transportation: on foot, and even easier in a vehicle.
 
-Boiling water requires quite some energy (200 Wh per liter, see chapter on [Energy](#energy)). Therefore it is best to keep hot water, that you do not use immediately, in a thermos. This aligns with the Permaculture Principle [#2 Catch and Store Resources](#pp02).
+Boiling water requires quite some energy (200 Wh per liter, see chapter on [Energy](#energy)). Therefore it is best to keep hot water, that you do not use immediately, in a thermos.
 
 Three liters of hot water contain the same amount of energy which is equivalent to half of a standard car battery. Imagine that: boiling 3 liters of water will empty half of your car battery. 
 
 Or in other words: keeping 3 liters of hot water is like installing an additional half car battery. It is the cheapest way of extending your energy storage capacity.
 
-### Required Equipment
+### related Equipment
 
-#### always
+**always**
 
 1. Thermos (to store hot water until you need it)
 
-#### one or more of the following for heating (in order of sustainability):
+and **one or more of the following** for heating (in order of sustainability):
 
 1. solar stove (mainly in car or boat, also possible for hiking)
 
 1. 12 Volt immersion heater (in car or boat)
 
-1. wood stove (solo stove, or similar) for hiking or camping
+1. wood stove (solo stove, or similar) mostly for hiking or camping
 
-1. compact gas stove (fossil but fast and versatile)
+1. compact gas stove (fossil but fast and versatile, perhaps as backup)
+
+My favourite combination is the immersion heater in a thermos can. I use it almost every morning to -re-heat yesterday's hot water, and every afternoon to catch the last sunlight for heating tomorrow's hot water.
 
 - - -
 

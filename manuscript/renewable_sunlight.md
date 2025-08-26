@@ -3,7 +3,7 @@ title: Sunlight
 ---
 ## Sunlight
 
-*renewable resource*
+*[renewable resource](#use-renewable-resources)*
 
 A highly available resource which we often connect to electric energy. While [solar panels](#solar-panels) are a great application for catching sunlight and converting it to electric energy. I value and use it a lot.
 

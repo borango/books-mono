@@ -1,4 +1,7 @@
-# Energy
+---
+title: Energy
+---
+## a little science of Energy {#energy}
 
 If we want to manage and conserve energy, we need to develop an understanding of energy amounts.
 
@@ -22,7 +25,7 @@ But I will keep everything simple and practical. My explanation format here is h
 
 
 
-## Energy, Power and Time
+### Energy, Power and Time
 
 Hiking up a hill requires a certain amount of energy for my body. The energy is transmitted to the muscles as blood sugar. Sooner or later I replentisch the energy by eating food.
 
@@ -34,7 +37,7 @@ $$E = P \cdot t$$
 
 
 
-## Energy Units
+### Energy Units
 
 A typical unit of power is the Watt (W). 
 
@@ -49,4 +52,4 @@ Now, Energy is Power multiplied by Time. So, if we use the unit Watt for Power, 
 A practical unit for the amount of energy is the kilowatt hour (kWh) [^kwh]. It is the amount of energy that *something* with a power of 1 kW consumes in one hour.
 
 
-[^kwh]: actually the official scientific unit is Watt Seconds (Ws), or Joule, but this is not practical for daily use. 1 kWh = 3600 Ws.
+[^kwh]: actually the official scientific unit is Watt Seconds (Ws), or Joule, but this is not very practical for daily use. 1 kWh = 3.6 megajoule.

@@ -1,4 +1,7 @@
-# Permaculture
+---
+title: Permaculture Intro
+---
+## Permaculture
 
 While invented in a farming context, the principles of permaculture can be applied to many areas of life, including Eco Travel. In fact, Eco Tavel and Permaculture align with each other very well.
 

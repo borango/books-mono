@@ -15,4 +15,6 @@ linkcolor: blue
 urlcolor: red
 ---
 
-*book metadata defined in index.md - keep this page as first manuscript file*
+<!-- book metadata - keep this as first manuscript file !          -->
+<!-- NOTE that an empty subtitle definition breaks custom.tex      -->
+<!-- see also https://pandoc.org/demo/example33/6.2-variables.html -->
