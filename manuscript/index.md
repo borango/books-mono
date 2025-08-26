@@ -1,8 +1,8 @@
 ---
 title: Eco Sailing
-subtitle: Ultimate Freedom and 100% Renewable Resources
-subject:  Ultimate Freedom and 100% Renewable Resources
-abstract: Ultimate Freedom and 100% Renewable Resources
+subtitle: Ultimate Freedom on 100% Renewable Resources
+subject:  
+abstract: 
 keywords: travel sailing freedom renewable energy resources sustainability eco ecology environment
 author: Boran Gögetap
 date: \today
@@ -15,11 +15,4 @@ linkcolor: blue
 urlcolor: red
 ---
 
-![](resources/title_page.png)
-
-```{=latex}
-\begin{figure}[p]
-\centering
-\includegraphics[width=\textwidth]{resources/title_page.png}
-\end{figure}
-```
+*book metadata defined in index.md - keep this page as first manuscript file*
