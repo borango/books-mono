@@ -11,6 +11,10 @@ store_resources.md
 z_commons_hot_water.md
 batteries.md
 
+store_food.md
+
+cook_eat.md
+
 equipment.md
 z_commons_silicone_spoon.md
 

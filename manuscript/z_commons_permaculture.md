@@ -7,7 +7,7 @@ title: Permaculture Principles
 | # | Principle | *explanation (classic)* | in this book |
 |---|-----------|------------------------ | ------------ |
 | 1 | Observe and Interact []{#pp01} | Take time to observe natural systems and interact with the environment to better understand how it functions and to make decisions that work in harmony with nature.|
-| 2 | Catch and Store Resources []{#pp02} | Capture resources like sunlight, water and wind when they are abundant to make them available during times of need. | [Catch](#catch-resources) [Store](#store-resources)
+| 2 | Catch and Store Resources []{#pp02} | Capture resources like sunlight, water and wind when they are abundant to make them available during times of need. | [Catch](#catch-resources), [Store Resources](#store-resources), [Store Food](#store-food)
 | 3 | Obtain a Yield []{#pp03} | Design systems that produce useful outputs, whether food, energy, or materials, to support sustainability and self-reliance.|
 | 4 | Apply Self-Regulation []{#pp04} | Create systems with built-in checks and balances that respond to feedback, helping to avoid resource depletion and maintain balance. |
 | 5 | Use Renewable Resources []{#pp05} | Prioritize renewable materials and energy to reduce dependency on finite resources.|
