@@ -1,8 +1,9 @@
 .DS_Store
 dist/
 manuscript/.observablehq/cache/
-manuscript/resources/vec/*.svg
+manuscript/resources/vec/*gen.svg
 node_modules
 yarn-error.log
 *.swp
 *.tgz
+!*.sh
