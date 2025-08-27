@@ -1,7 +1,7 @@
 ---
 title: Energy
 ---
-## a little science of Energy {#energy}
+# a little science of Energy {#energy}
 
 If we want to manage and conserve energy, we need to develop an understanding of energy amounts.
 

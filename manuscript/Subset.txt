@@ -15,10 +15,17 @@ store_food.md
 
 cook_eat.md
 
+electro_backbone.md
+
+sailing.md
+
+anchoring.md
+
+infrastructure.md
+
 equipment.md
 z_commons_silicone_spoon.md
 
-x_appendix.md
 eco_travl_permaculture_intro.md
 z_commons_permaculture.md
 eco_travl_permaculture.md

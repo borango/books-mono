@@ -13,6 +13,9 @@ toc: true
 colorlinks: true
 linkcolor: blue
 urlcolor: red
+
+documentclass: book
+classoption: oneside
 ---
 
 <!-- book metadata - keep this as first manuscript file !          -->
