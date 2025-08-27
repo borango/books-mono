@@ -9,6 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     container: jakobkmar/pandoc-all-in-one:latest
 
+    steps:
+
+    - uses: actions/checkout@v4
+
     - name: Build book
       run: bash pandoc.sh
 
