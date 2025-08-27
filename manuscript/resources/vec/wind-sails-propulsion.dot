@@ -1,0 +1,1 @@
+digraph{rankdir=LR wind -> sails -> propulsion}

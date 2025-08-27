@@ -1,0 +1,7 @@
+digraph{rankdir=LR 
+wind -> <wind turbine> -> battery 
+battery->engine[label=later] 
+engine -> propulsion 
+wind -> sails -> propulsion[label=now]
+{rank=same sails <wind turbine>}
+}
