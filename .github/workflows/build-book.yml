@@ -1,0 +1,27 @@
+name: Build Book
+
+on:
+  push:
+    branches: [ eco-sailing/preview ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: jakobkmar/pandoc-all-in-one:latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - id: extract_branch
+      name: Extract branch name
+      shell: bash
+      run: echo "branch=$(cat ${GITHUB_REF:-${GITHUB_REF#refs/heads/}} | sed 's/\//_/g' )" >> $GITHUB_OUTPUT
+
+    - name: Build book
+      run: cd manuscript && pandoc --template=custom.tex --number-sections --toc --toc-depth=2 -o ../${{ steps.extract_branch.outputs.branch }}_subset_pd.pdf index.md $(cat Subset.txt)
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: book
+        path: '*.pdf'
