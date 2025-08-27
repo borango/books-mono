@@ -1,0 +1,22 @@
+name: Build Book
+
+on:
+  push:
+    branches: [ eco-sailing/preview ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: jakobkmar/pandoc-all-in-one:latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Build book
+      run: cd manuscript && pandoc --template=custom.tex --number-sections --toc --toc-depth=2 -o ../$(../branch_to_filename.sh)_subset_pd.pdf index.md $(cat Subset.txt)
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: book-output
+        path: *.pdf
