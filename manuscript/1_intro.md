@@ -15,7 +15,7 @@ Eco Sailing means moving at sea and near the shore in such a way that is environ
 
 ### Sustainability
 
-*Sustainable* means lasting a long time, like *going forever* without harming the environment, society or yourself. It is a way of living and traveling that does not deplete resources while consuming only a *fair share*.
+*Sustainable* means lasting a long time, like *going forever* without harming the environment, society or yourself. It is a way of living and travelling while consuming only a *fair share* and without depleting resources.
 
 Most readers of this book have sorted their residential life already in a sustainable way. You separate your waste, you recycle, you compost, you eat less meat, you buy local products, you use more public transportation, you avoid plastic and so on. You have established a budget which balances income and expenses. You are already living a sustainable life at home.
 
@@ -45,9 +45,9 @@ Whatever perspective you have on sailing: in this book I will tell you everythin
 
 ## Book Structure
 
-Sailing, ecology and sustainability go together hand in hand.
+Sailing, ecology and sustainability go together hand in hand. [^n1]
 
-> Not necessarily sailing a modern, overpowered yacht that offers 4-star comfort and hops from marina to marina, refilling fuel and water tanks and connecting to shore power as soon as they can. Here I am writing about a sailing lifestyle which is closer to camping in terms of comfort, and similar to living in an offgrid tiny house.
+[^n1]: Not necessarily sailing a modern, overpowered yacht that offers 4-star comfort and hops from marina to marina, refilling fuel and water tanks and connecting to shore power as soon as they can. Here I am writing about a sailing lifestyle which is closer to camping in terms of comfort, and similar to living in an offgrid tiny house.
 
 Many aspects of Eco Sailing remind me of [Permaculture](#permaculture), which is why the first four chapters of this book are based on major permaculture principles: 
 
@@ -70,7 +70,7 @@ Remaining chapters mainly list in tabular form and reference all Eco Sailing com
 
 - - -
 
-I don't find it easy to present a larger system of interrelated topics in a linear way, like in this book. 
+I find it difficult to present a larger system of interrelated topics in a linear way, like in this book. 
 
 Most concepts form shorter or longer causal chains, such as: 
 
@@ -87,6 +87,6 @@ The bigger, more accurate picture is:
 
 So I chose to list Wind in chapter 1, Sails and the Wind Turbine (and all the other resource catchers) in chapter 2, the battery in chapter 3 and Propulsion in the Sailing chapter.
 
-I am using many cross-references in the electronic versions of this book. They represent the green lines in the diagrams above. This way you can follow a causal chain from Wind, Turbine, Battery... (and back) if you want to. Otherwise you just keep reading chapter by chapter.
+I am using many cross-references in the electronic versions of this book. They represent the green lines in the diagrams above. This way you can follow a causal chain from Wind, Turbine, ... , to Propulsion (and back) if you want to. Otherwise you just keep reading about logical groups of subjects, chapter by chapter. [^book_structure_feedback]
 
-> Please let me know how this book structure works for your reading experience!
+[^book_structure_feedback]: Please let me know how this book structure works for your reading experience!

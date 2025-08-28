@@ -23,6 +23,10 @@ anchoring.md
 
 infrastructure.md
 
+choices.md
+
+habits.md
+
 equipment.md
 z_commons_silicone_spoon.md
 
