@@ -30,9 +30,7 @@ PDF book generation is done with Pandoc and a little bit of custom LaTeX templat
 
 With local previews and PDF generation, we have our own "GitHub Writing Mode".
 
-PDF generation is also automated with a GitHub Action, which enables authors to work on their manuscript without installing any of the tool chain anywhere. So we have effectively "Browser Writing Mode".
-
-See https://github.com/borango/books-mono/blob/eco-sailing/preview/manuscript/1_intro.md for an example.
+PDF generation is also automated with a GitHub Action, which enables authors to work on their manuscript without installing any of the tool chain anywhere. So we have effectively "Browser Writing Mode" by editing markdown on GitHub. See https://github.com/borango/books-mono/actions for the pipeline runs and PDF build results.
 
 With uploading PDF files to Leanpub, we can still use their "Upload Writing Mode".
 
