@@ -5,7 +5,7 @@
 \ProvidesFile{tufte-common.def}[2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles]
 
 \usepackage[svgnames,dvipsnames]{xcolor} % Load xcolor explicitly with tufte-book options
-\usepackage[pages=some]{background} % Add background package for cover image
+\usepackage{tikz} % For full-page image placement
 
 %%
 % The `xkeyval' package simplifies the user interface for the document class options
