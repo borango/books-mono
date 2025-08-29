@@ -5,7 +5,7 @@ cd manuscript
 # --template=custom.tex \
 
 pandoc \
-  -V documentclass=bogo-tufte-book \
+  -V documentclass=tufte-book \
   -V classoption=oneside \
   -V toc=true \
   --toc-depth=1 \
