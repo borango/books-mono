@@ -24,8 +24,7 @@ But I will keep everything simple and practical. My explanation format here is h
 > There is no need to be frustrated if you do not find the mathematics intuitive. I must admit: I still do not find it intuitive myself. But I have learned to use it, and now it is almost second nature to me. It is a bit like using a computer: you do not need to understand how it works inside. As long as you can start it up, use the browser or a text editor or an email program, it is a success.
 
 
-
-### Energy, Power and Time
+## Energy, Power and Time
 
 Hiking up a hill requires a certain amount of energy for my body. The energy is transmitted to the muscles as blood sugar. Sooner or later I replentisch the energy by eating food.
 
@@ -36,8 +35,7 @@ Here is the abstract formula which relates energy (E), power (P) and time (t):
 $$E = P \cdot t$$
 
 
-
-### Energy Units
+## Energy Units
 
 A typical unit of power is the Watt (W). 
 

@@ -4,9 +4,9 @@ or: my Nomadic Cookbook
 
 - - -
 
-## No Cooking At All
+**No Cooking At All**
 
-### Trail Mix 
+## Trail Mix 
 
 also known as: Mélange Montagnarde (fr) / Studentenfutter (de)
 
@@ -16,12 +16,12 @@ Extend or replace your favourite fruits, seeds and nuts. I find the above the mo
 
 Time to prepare: just go to the galley.
 
-### Energy Snack
+## Energy Snack
 
 [Peanut Butter](#peanut-butter) + [Raisins](#raisins)
 
 
-### Seaweed Salad
+## Seaweed Salad
 
 Highly depends on seewead availability. I never plan this dish but prepare it when I happen to catch seaweed, typically on the anhor chain.
 
@@ -32,17 +32,17 @@ Seaweed + [soy sauce](#soy-sauce), or [mustard](#mustard) + [olive oil](#olive-o
 
 - - -
 
-## Just add Hot Water
+**Just add Hot Water**
 
 Based on [hot water](#hot-water), which I recommend to have always ready on the Eco Sailboat, these are very quick meals to prepare:
 
-### Ramen
+## Ramen
 
 The classic, no comment...
 
 5 minutes
 
-### Porridge
+## Porridge
 
 Pour hot water over [oatmeal](#oatmeal) and [raisins](#raisins). Let both soak (raisins will inflate and get soft). Add [sunflower seeds](#sunflower-seeds), [peanut butter](#peanut-butter) and [sprouts](#sprouts). Diced apple goes well with it, if you have. Add instant coffee or cacao for the taste, if you like.
 
@@ -53,9 +53,9 @@ Sometimes I eat it as a breakfast, sometimes as a desert, or just as a quick mea
 
 - - -
 
-## Proper Dishes
+**Proper Dishes**
 
-### Falafel
+## Falafel
 
 Falafel mix + hot water, let soak, form patties, then fry with oil in a pan or in solar stove
 
@@ -63,14 +63,14 @@ Falafel mix + hot water, let soak, form patties, then fry with oil in a pan or i
 10 minutes for soaking,
 10 minutes and 0.2 kWh for frying (pan) or 60 minutes in solar stove
 
-### Potato Salad
+## Potato Salad
 
 Mix boiled potatoes with onion or pickled cucumber and [mayonnaise](#mayonnaise)
 
 10 minutes for cutting and mixing, if you have (sun-) boiled potatoes,
 20 more minutes and 0.5kWh if you need to (pot-) boil them first
 
-### Tortilla Espanol
+## Tortilla Espanol
 
 1. fry half [onion](#onions) rings in a pan, then keep separate
 1. boil diced raw [potatoes](#potatoes) in 50% [olive oil](#olice-oil) and [(hot) water](#hot-water); add some salt

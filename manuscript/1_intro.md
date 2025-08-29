@@ -10,10 +10,8 @@ the Sailing flavour of Eco Travel:
 
 Using a sailboat for habitation, recreation, or transportation without polluting the environment and without consuming resources beyond a fair share.
 
-Eco Sailing means moving at sea and near the shore in such a way that is environmentally friendly, socially responsible, and economically sustainable.
+Eco Sailing means moving at sea and near the shore in such a way that is environmentally friendly, socially responsible, and economically *sustainable*.
 
-
-### Sustainability
 
 *Sustainable* means lasting a long time, like *going forever* without harming the environment, society or yourself. It is a way of living and travelling while consuming only a *fair share* and without depleting resources.
 
@@ -21,13 +19,13 @@ Most readers of this book have sorted their residential life already in a sustai
 
 In financial terms, sustainability means that I can travel longer or infinite if I do not spend more than I earn. Travelling on a low budget is not a choice or a goal by itself but a consequence of the choice to travel longer or indefinitely.
 
-### Systemic approach
+## Systemic approach
 
-Eco Travel is a system. A system of needs, choices, habits, procedures and equipment. A system within a geographical, climatic and cultural context.
+Eco Travel is a system. A system of choices, habits, procedures and equipment that satisfies your needs and your aspirations. A system within a geographical, climatic and cultural context.
 
 Typically the system will evolve, based on changing opportunities and constraints, new priorities in needs, revisited choices, adjusted procedures and upgraded equipment. Habits will both begin the evolution (begin with what you like to do), and some changed or new habits will be the result of the evolution. Often the result will tend towards a simpler and happier version of your life.
 
-### Habits
+## Habits
 
 Eco Sailing is different from a typical residential life, and different from mainstream yacht sailing. The biggest difference is the choice for sustainable resources at very limited capacity. 
 

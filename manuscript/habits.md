@@ -2,7 +2,7 @@
 
 Make it a habit to...
 
-## clean dishes with silicone spoon
+## don't hesitate to anchor
 
 ## approach the anchorage (or marina) under sail
 
@@ -10,4 +10,4 @@ Make it a habit to...
 
 ## prepare hot water during the day
 
-## don't hesitate to anchor
+## clean dishes with silicone spoon

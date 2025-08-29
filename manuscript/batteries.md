@@ -20,7 +20,7 @@ So our complete battery landscape is a combination of some 12 Volt batteries and
 I am planning most of the capacity needs to be served from 48V for best efficiency, and a basic level of capacity in the 12 V battery banks. The 12 V bank should be large enough to power the boat over night (including the navigation mode, lights and autopilot).
 
 
-### Voltage Conversion
+**Voltage Conversion**
 
 Should the 12 Volt batteries run out of energy, then I have a step-down solution in place which feeds the 12 Volt system from the 48 V batteries.
 
@@ -33,7 +33,7 @@ More on voltage conversion (12 V <-> 48 V -> 230 V) in the detailed chapter. I a
 
 > Yet another alternative is to operate just one 48 V battery bank, and supply your 12 V loads from a step-down converter (or better: redundant parallel converters, in order to eliminate a critical single-point-of-failure). This would also imply that all electric power generation must go to the 48 V system. If you have 12 V generators (solar panels or wind turbines), then you would step-up convert their output, just to step-down for 12 V loads. The total (system) efficiency for 12 V loads would be pretty poor. The efficiency for 48 V would not be affected. I did not choose this approach, but it is a viable one.
 
-### Chemistry
+**Chemistry**
 
 You have certainly heard of lithium batteries as an alternative to lead-acid batteries. For the 48 V battery bank, which you will likely install as a new one, there is no reasonable alternative to Lithium batteries. Yes in theory you could wire old (or new) 12 V lead-acid batteries in series, to produce a total of 48 V bank voltage. But then you must take care of midpoint voltages (at 12V, 24V and 36 V) and balance the batteries yourself. It is possible but unnecessarily complicated. Every quality lithium battery will take care of cell balancing internally (and very good ones will report on the internal cell voltages, for safety).
 

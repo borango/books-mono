@@ -30,11 +30,11 @@ I further separate my food inventory list into long-term storage (keeps for year
 
 On top, short-term storage is always improvised and a matter of availability (shops at land). Short-term storage is not strategic for the planning and for the goals of Eco Sailing. So yes, I do enjoy bread, butter and cheese - I just don't count on it. That's why I don't cover it in the storage section.
 
-## Mid Term Storage
+**Mid Term Storage**
 
 Items in mid-term storage I can re-stock every week or two. Ideally sourced from local farmers, otherwise from groceries.
 
-### Potatoes
+## Potatoes
 
 Offers a wide range of different end results (recipes). Surprisingly low in calories.
 
@@ -44,7 +44,7 @@ Also as the side dish for a million of other recipes (which I don't cook).
 
 I boil them in seawater in a solar stove, for example on a sunny afternoon. Then I can decide later on the meal that I want to prepare quickly from boiled potatoes.
 
-### Onions
+## Onions
 
 High in vitamin C. Depending on preparation, can taste soft, crisp, crunchy, sour, sweet or roasted.
 
@@ -52,37 +52,37 @@ I like to fry them quickly in a pan, then add them to many salads or meals.
 
 Used in: [Tortilla Espanol](#tortilla-espanol), Rice Tika Masala and Fried Potatoes, and optionally in Omelette, One-Pot-Pasta, Potatoe Salad and Tajine.
 
-### Garlic 
+## Garlic 
 
 The little brother of onions. Keeps even longer, but not as versatile as onions in its use in recipes. Somewhere between *ingredient* and *spice* that you can add to almost anything. Special appearance
 in Pasta Alio & Olio.
 
-### Eggs
+## Eggs
 
 Depending on climate somewhere between short-term and mid-term storage.
 
 Used in: Omelette, [Tortilla Espanol](#tortilla-espanol) and Tamago.
 
 
-## Long Term Storage
+**Long Term Storage**
 
 Items in long-term storage I can store in bulk sizes (packs of kilograms or larger), and I need to re-stock only once per year, in theory. Typically I rotate my stock and re-supply smaller quantities after I consumed them.
 
-### Oatmeal
+## Oatmeal
 
 Used in: [Porridge](#porridge) mainly. Can substitue wheat flour to a certain degree, and added to Omelette surprisingly.
 
-### Sunflower Seeds
+## Sunflower Seeds
 
 Used in: Porridge, and for the [quickest snacks](#trail-mix) (without cooking) together with raisins, or just plain.
 
-### Raisins
+## Raisins
 
 My main source for (culinary) sweetness.
 
 Used in: Porridge, and for the quickest snacks (without cooking) together with sunflower seeds or peanut butter.
 
-### Peanut Butter
+## Peanut Butter
 
 Admittedly not the highest quality of vegetable oil, but so versatile and easy to process (mostly without coooking).
 
@@ -90,21 +90,21 @@ I use it as the quickest snack with raisins, for example when sailing single-han
 
 Can serve as spread on bread, can be added to Porridge, Salad, and almost any other recipe.
 
-### Mustard
+## Mustard
 
 Solid basis for vinaigrette (salad dressing) and an allround addition to many dishes. Special appearance in Seaweed Salad. Also keeps relatively well when opened.
 
-### Vinager
+## Vinager
 
 The standard for vinaigrette (salad dressing). Indispensable for (Cole) Slaw.
 
 Can also be used for general cleaning and sterilization, and for removing corrosion from copper cable (mix with salt).
 
-### Mung Beans
+## Mung Beans
 
 For sprouting. Creates a fresh and green plant from long-term storage dry beans, within 24 hours. Ingenious trick of nature. I sprout them every day and add them to almost any meal, including Porridge.
 
-### Rice
+## Rice
 
 The fundamental cereal, and the "more sustainable" alternative to pasta because rice naturally absorbs all and exactly the water that you cook it in.
 
@@ -112,29 +112,29 @@ Used in Rice Tika Masala, and in the Japanese Tamago for a fast and delicious sn
 
 And of course as the side dish for a million of other recipes (which I don't cook).
 
-### Pasta
+## Pasta
 
 Well, the standard. I suggest to cook only as One-Pot-Pasta, not to waste water and energy. See [Rice](#rice) as the more efficient alternative.
 
-### Ramen Kit
+## Ramen Kit
 
 Somewhere between rice, pasta and soup.
 
-### Mayonnaise
+## Mayonnaise
 
 An amazingly fresh tasting, long keeping food (while closed of course).
 
 Used in [Potato Salad](#potato-salad) as the second main ingredient. Also can substitute butter as a spread on bread.
 
-### Olive Oil
+## Olive Oil
 
 My main and only vegetable oil for cooking.
 
-### Falafel Mix
+## Falafel Mix
 
 I admit, this is a one-trick pony. Can only produce Falafel. Mentioned here as an example and proxy for other ready mixes that I can cook or fry in the pan.
 
-### Soy Sauce
+## Soy Sauce
 
 Alternative to vinaigrette, or as a dip for fresh vegetables (cucumber, carrots, zucchini/courgette).
 

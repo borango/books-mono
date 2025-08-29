@@ -3,7 +3,7 @@
 Space and weight on a boat is limited. Catching resources from the environment is essential.
 
 
-## Sails -- turning Wind into Propulsion {#sails}
+## Sails -- turning wind into propulsion {#sails}
 
 First things first. A sailboat is a boat with sails as the primary means of propulsion.
 
@@ -18,7 +18,7 @@ Compared to an engine, sails are direct resource-catchers. This simplicity is no
 [^maintainability]: the ability to keep in good condition, and to repair it yourself if broken
 
 
-## Wind Turbine -- turning Wind into Electricity {#wind-turbine}
+## Wind Turbine -- turning wind into electricity {#wind-turbine}
 
 The other way to catch wind: turning it into electric energy. More on the wind turbine in the chapter on [Electro Backbone](#electro-backbone).
 

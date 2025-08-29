@@ -15,7 +15,7 @@ Three liters of hot water contain the same amount of energy which is equivalent 
 
 Or in other words: keeping 3 liters of hot water is like installing an additional half car battery. It is the cheapest way of extending your energy storage capacity.
 
-### related Equipment
+related Equipment:
 
 **always**
 

@@ -3,5 +3,5 @@ toc: false
 ---
 # Book Architecture
 
-![](vec/book_architecture.svg)
+![structure](vec/book_architecture.svg){.fullwidth }
 
