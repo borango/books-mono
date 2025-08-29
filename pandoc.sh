@@ -1,11 +1,17 @@
 cd manuscript
 
+  DOCUMENTCLASS=bogo-tufte-book
+
+if [ "$GITHUB_ACTIONS" = "true" ]; then
+  DOCUMENTCLASS=book
+fi
+
 # --template=tufte-sidenotes-minimal.tex \
 # --number-sections \
 # --template=custom.tex \
 
 pandoc \
-  -V documentclass=tufte-book \
+  -V documentclass=$DOCUMENTCLASS \
   -V classoption=oneside \
   -V toc=true \
   --toc-depth=1 \
