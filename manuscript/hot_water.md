@@ -35,7 +35,7 @@ and **one or more of the following** for heating (in order of sustainability):
 
 My favourite combination is the immersion heater in a thermos can. I use it almost every morning to -re-heat yesterday's hot water, and every afternoon to catch the last sunlight for heating tomorrow's hot water.
 
-- - -
+## Solar Stove
 
 Clearly the most elegant solution for heating water is with direct [sunlight](#sunlight), using a solar stove. It works best when you are stationary. While driving, sailing or swinging around an anchor it might be impossible.
 
@@ -45,7 +45,7 @@ During the day I boil several rounds of water in the solar stove and keep it in 
 
 For bicycle travel, I find the solar stove the best possible heating option.
 
-- - -
+## Immersion Heater
 
 The second most efficient way to boil water is with a 12 Volt immersion heater directly in your thermos bottle (car and boat only).
 
@@ -55,19 +55,13 @@ On a boat you are likely less limited in electric energy, and as an Eco Travelle
 
 You can shorten the time to boil water by starting with warm water that you kept from the previous day. On the sailboat I routinely boil water in the 2 liter thermos in the afternoon, and use (perhaps re-heat) that for the rest of the day and the next morning.
 
-- - -
+## Compact Wood Stove
 
-A small and efficient wood stove, like a Solo Stove, uses a renewable fuel that comes for free. Plus the wood stove can not only boil water but also cook a real meal. It is great for hiking and for bicycle travel. Obviously it requires careful handling, it produces smoke and requires cleaning after use. The total manual time to boil water (or cook a meal) is larger than in the other options.
+A small and efficient wood stove, uses renewable fuel that comes for free. Plus the wood stove can not only boil water but also cook a real meal. Obviously it requires careful handling, it produces smoke and requires cleaning after use. The total manual time to boil water (or cook a meal) is larger than in the other options. Useful perhaps for trips on land or as a backup if all other options fail.
 
-- - -
+## Compact Gas Stove (backup [^gas_stove_backup])
 
-A compact and efficient gas stove, such as the Primus Lite, is the fastest and most universal way to boil water or even cook. The biggest drawback is that it uses a fossil fuel that is not renewable. I am listing it here anyway because of its great utility.
+A compact and efficient gas stove is the fastest way to boil water or even cook. The biggest drawback is that it uses fossil fuel which is not renewable. Supply of compatible gas cartidges is difficult outside specialized stores. I am listing it here because of its great utility. If you consider one: choose a product with a combined burner - pot unit and a heat exchanger! This save fuel and time to boil.
 
-When electric capacity was limited and sunlight not available, then I would use the gas stove as a backup. If we look at it from a *Fair Share* perspective, I would say that it is acceptable to use a gas stove after the other options have been exhausted.
-
-On my current sailboat setup this is not an issue anymore, and now I have not used the gas stove since a year.
-
-
-- - -
-
-Even when you don't have the means to heat water yourself, you can still bring hot water with you. You can buy or get hot water for free in many places, such as cafes, restaurants, hotels or from your couchsurfing hosts. 
+[^gas_stove_backup]: On previous travels by car or small sailboat, when electric capacity was limited and sunlight not available, then I would use the gas stove instead. If we look at it from a *fair share* perspective, I would say that it is acceptable after the other options have been exhausted.  
+On my current sailboat setup this is not an issue anymore, because I have more solar production and more battery capacity. I have not used the gas stove any more but keep it as a backup.

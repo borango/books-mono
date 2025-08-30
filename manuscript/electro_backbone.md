@@ -46,24 +46,42 @@ Consider that **no** engine is also an option.
 
 ## Plan (other) DC loads
 
+The [immersion heater](#immersion_heater) does not consume a huge amount of power, which makes it easy to integrate almost anywhere into the DC system.
+
+|    |    |        |
+|---:|---:|-------:|
+|12 V|11 A|140 Watt|
+
+## Inverter
+
+The inverter converts DC to AC, which is not a trivial task and involves losses. Even in stand-by, it will take its toe of about 1-2% of its maximum power. At 2000W for example, this will be at least 20 W of continuous loss. Some products have an "eco mode" which tries to sense when there is power needed, but that does not work for all types of connected loads. You are better off when you have the chance to activate the inverter only when you need it, e.g. for cooking.
+
+It is more efficient to invert 48 Volts to AC than 12 Volts, and the wire size on the input (DC) side can be smaller.
+
+The inverter needs to be sized for your total AC loads. Therefore you need to plan your AC loads first, then come back and determine the inverter rating.
+
 ## Plan AC loads
 
-As discussed earlier, I believe that we should run all smaller loads on DC, and use AC only for the larger components, or for those that you could not find in DC versions, or have not replaced yet.
+As discussed earlier, I believe that we should run most loads on DC, and use AC only for the larger components, or for those that you could not find in DC versions, or have not replaced yet, or those which would require more massive DC wiring otherwise.
 
 The combined power of all AC loads that you might run at the same time will determine the size of the [inverter](#inverter).
 
-On my sailboats, the only noteworthy AC load is the induction stove at 2 kW max.
-
-## Plan other AC loads
-
+On my sailboats, the only massive AC load is the induction stove at 2 kW max.
 
 2 kW at 48 Volts means about 40 Amps, which is manageable with cables of about 6 to 10 mm² cross section. If you had a 12-Volt system, then you would need around 160 Amps, which requires much thicker cables of 25 mm² or more.
-
-
 
 ## Induction Stove
  
 Consuming 2 kW max. This is at its highest setting, which I rarely use, e.g. for boiling water quickly. For most dishes in the pan or a pot, I use one of the lowest settings that consume 800 to 1000 W.
 
-## Inverter
+Choosing an electric stove eliminates the need for a gas installation, which is a big plus for safety and it saves a lot of weight (gas bottle plus full-size gas stove). When you think of just the weight, you can invest that rather in a larger battery of 3 to 5 kWh additional capacity.
+
+Therefore the induction stove for me is a no-brainer, even if will require an inverter that might be larger than what you would need otherwise.
+
+## Plan other AC loads
+
+In terms of power and energy consumption, I have no other routine AC loads. But a few of appliances for which I did not bother to find DC chargers for: makita battery charger, electric shaver, vacuum cleaner, soldering iron, welding machine.
+
+Because my AC system is sized for 2000 Watts anyway, I can easily run these other loads as well.
+
 

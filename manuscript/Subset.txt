@@ -8,7 +8,7 @@ catch_resources.md
 catch_solar-panels.md
 
 store_resources.md
-z_commons_hot_water.md
+hot_water.md
 batteries.md
 
 store_food.md
