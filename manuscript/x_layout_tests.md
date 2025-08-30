@@ -93,6 +93,8 @@ Test for an endnote: [^^xen]
 
 
 ```js 
-// if you see this code on Leanpub, then at least some diagrams have not been converted to SVG images yet
+// if you see this code in the draft of a book, 
+// then one or more diagrams in this chapter
+// may not have been converted to images yet
 import{ digraph, digraph2svg, visco } from "@kxfm/browser"
 ```
