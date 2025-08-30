@@ -15,6 +15,7 @@ pandoc \
   -V classoption=oneside \
   -V toc=true \
   --toc-depth=1 \
+  -V header-includes="\usepackage{etoolbox}\AtBeginDocument{\setlength{\parindent}{0pt}}\hypersetup{colorlinks=false,allbordercolors={0 0 0},pdfborderstyle={/S/U/W 1}}" \
   -o ../$(../branch_to_filename.sh)_subset_pd.pdf \
   index.md \
   $(cat Subset.txt)

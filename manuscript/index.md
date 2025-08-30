@@ -6,11 +6,6 @@ abstract:
 keywords: [travel, sailing, freedom, renewable, energy, resources, sustainability, eco, ecology, environment]
 author: Boran Gögetap
 date: \today
-
-header-includes:
-  - \hypersetup{colorlinks=false,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
 ---
 
 <!-- book metadata - keep this as first manuscript file !          -->
