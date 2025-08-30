@@ -46,6 +46,12 @@ Each book branch will merge only highres **or** lowres images from `develop`, th
 
 Other scripts help me to split and merge between book branches.
 
+## more dependencies
+
+```bash
+sudo apt install pandoc texlive-latex-extra texlive-pictures librsvg2-bin rsvg-convert 
+```
+
 ## Contribution
 
 Typical contributions in this mono-repo come from co-authors in book projects.
