@@ -3,22 +3,30 @@
 FILE="$1"
 
 if [[ -z "$FILE" ]]; then
-    echo "Usage: $0 <file>"
-    exit 1
+  echo "Usage: $0 <file>"
+  exit 1
 fi
 
 # Get all local branches
 branches=($(git branch --format="%(refname:short)"))
 
-# Use the first branch as reference
-ref="${branches[0]}"
-
-echo "Comparing '$FILE' across all branches relative to '$ref'..."
+# Use current branch as reference
+ref="$(git rev-parse --abbrev-ref HEAD)"
 
 for branch in "${branches[@]}"; do
-    if [[ "$branch" == "main" ]]; then continue; fi
-    if [[ "$branch" != "$ref" ]]; then
-        echo -e "\n--- Diff $ref -> $branch ---"
-        git diff "$ref" "$branch" -- "$FILE"
-    fi
+
+  # comparing againt main is a different task, 
+  # typically a careful release from development
+  if [[ "$branch" == "main" ]]; then continue; fi
+
+  # skip if file does not exist in $branch
+  if ! git ls-tree -r "$branch" --name-only | grep -q "^$FILE$"; then
+      echo -e "\ndoes not exist in $branch"
+      continue
+  fi
+
+  if [[ "$branch" != "$ref" ]]; then
+      echo -e "\ndiff work against $branch "
+      git diff "$branch" -- "$FILE"
+  fi
 done
