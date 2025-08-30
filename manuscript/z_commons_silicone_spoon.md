@@ -5,7 +5,7 @@ title: Silicone Spoon
 
 For those who have been using it for a while, this is a fundamental helper in the kitchen - be it on a travel or at home.
 
-Most of us know the silicone spoon as a one-trick-pony, but it can do so much more than just remove dough from a bowl. In Eco Travel, we use the silicone spoon after every single meal to clean the dishes as much as possible. It serves two purposes: preventing food waste and saving water.
+Most of us know the silicone spoon as a one-trick-pony, but it can do so much more than just remove dough from a bowl. In Eco Travel, we use the silicone spoon after every single meal to clean the dishes as much as possible. It [saves resources](#pp06) in two different ways: preventing food waste and saving water.
 
 When fresh water is limited, certainly while hiking, perhaps also in your car or boat, then you want to avoid wasting it. Using these techniques, I could travel the Moroccan Sahara for 2 weeks with only 1 liter of water per day.
 

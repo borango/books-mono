@@ -15,6 +15,8 @@ Three liters of hot water contain the same amount of energy which is equivalent 
 
 Or in other words: keeping 3 liters of hot water is like installing an additional half car battery. It is the cheapest way of extending your energy storage capacity.
 
+Keeping hot water does not only provide you with a supply when you need it. It also [saves enery](#pp06) in two different ways: First, you don't waste but catch available rewnewable resources (sunlight, wind). Second, you don't loose the heat that you invested in boiling the water.
+
 related Equipment:
 
 **always**
