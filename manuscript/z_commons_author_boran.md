@@ -6,7 +6,12 @@ title: About the author
 
 * * * 
 
-## About the author
+## About the author[^bg_portrait]
+
+[^bg_portrait]: &nbsp; ![Portrait of Boran](res/20250709_074842__Boran.jpg)
+<!--            &nbsp; above is a hack to prevent pandoc error:-->
+<!--     "! Paragraph ended before \hypertarget was complete." -->
+<!--apparently an image can not stand alone in a foot/sidenote -->
 
 Rock climber, paragliding pilot, sailor and engineer. Converted sailboats to 100% green energy for sustainable, autonomous life.
 
@@ -16,4 +21,3 @@ Loves people, dogs and nature.
 
 Believes in freedom and peace.
 
-![Portrait of Boran](res/20250709_074842__Boran.jpg)
