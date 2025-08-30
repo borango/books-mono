@@ -60,7 +60,7 @@ The chapter [Cooking and Eating](#cook-eat) is dedicated to fulfilling the basic
 
 On the other side, chapters 1-3 are the foundation for mechanical and electric energy, which pushes the boat and powers vital equipment. The electrical side I cover in chapter Electro Backbone. 
 
-The mechanical and procedural aspects I cover in the two chapters on Sailing and Anchoring.
+Strategic, tactical and procedural aspects I cover in the two chapters on Sailing and Anchoring.
 
 Finally, autonomy can reach a limit. The chapter on Infrastructure discusses how we connect to zivilization, from time to time, for supplies, repairs, social contacts and so on.
 
