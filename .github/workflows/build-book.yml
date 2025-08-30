@@ -2,7 +2,9 @@ name: Build Book
 
 on:
   push:
-    branches: [ eco-sailing/preview ]
+    branches: 
+      - eco-sailing/preview
+      - eco-sailing/highres
 
 jobs:
   build:
