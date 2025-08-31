@@ -5,13 +5,13 @@ Mapping the Permaculture Principles to Eco Travel
 
 | # | Principle | transfer to Eco Travel | transfer to Boat |
 |---| --------- | ---------------------- | ---------------- |
-| 1 | Observe and Interact | Watch the weather. Choose local food. | Sail with the wind *but* Hide from the storm |
-| 2 | Catch and Store Resources | Bottle water when you find a source. Cook while it is sunny. Boil water while it is sunny. Keep hot water in a thermos. Shop groceries while you are in civilization. Find local organic shops. Eat pizza while you can. | Sail with the wind *or* Rest in a calm |
-| 3 | Obtain a Yield | Store excess energy in batteries. Share water, food and energy with others. Offer coffee. Offer help and advice. Take hitchhikers. Learn from locals. | Share the boat and offer a guest cabin |
+| 1 | Observe and Interact | Watch the weather. Choose local food. | 
+| 2 | Catch and Store Resources | Bottle water when you find a source. Cook while it is sunny. Boil water while it is sunny. Keep hot water in a thermos. Shop groceries while you are in civilization. Find local organic shops. Eat pizza while you can. |
+| 3 | Obtain a Yield | Store excess energy in batteries. Share water, food and energy with others. Offer coffee. Offer help and advice. Take hitchhikers. Learn from locals. |
 | 4 | Apply Self-Regulation | travelling inhererently limits resources that you carry, making you constantly aware of supply and usage |
-| 5 | Use Renewable Resources | *(this is why we focus on foot / bicycle / sailboat and not airplane or cruise ship)* <br> Take 'a shower' in natural bodies of water. | Boil potatoes in sea water. Clean dishes with sea water (after saving food with silicone spoon)|
+| 5 | Use Renewable Resources | *(this is why we focus on foot / bicycle / sailboat and not airplane or cruise ship)* <br> Take 'a shower' in natural bodies of water. |
 | 6 | Produce No Waste | Carry paper bags for re-use in wrap-free groceries (sections). Clean dishes with silicone spoon. |
-| 7 | Design from Patterns to Details | Follow the sun (seasonal migration) to eliminate the need for heating. | Plan sailing routes also based on availability of usable moorings in the destination area. |
+| 7 | Design from Patterns to Details | Follow the sun (seasonal migration) to eliminate the need for heating. | 
 | 8 | Integrate Rather than Segregate | | Install walkable, flexible solar panels on horizontal surfaces (no davits which add weight, windage and torque)|
 | 9 | Use Small and Slow Solutions | |
 |10 | Use and Value Diversity | | |

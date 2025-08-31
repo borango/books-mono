@@ -56,6 +56,17 @@ Mostly because of the propulsion facts and choices,
 > **Eco Sailing shifts navigation options to using the weather over the engine**
 
 
+> TODO
+>
+> according to [Design from Patterns to Details](#pp07):
+>
+> Use tides for drying out and simple repairs; 
+>
+> wait for tidal currents until they work for your advantage; 
+>
+> Plan sailing routes also based on availability of usable moorings in the destination area.
+
+
 ## Steering
 
 1. hand steering

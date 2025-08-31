@@ -4,13 +4,36 @@ Here is a summary of choices that follow the sustainable principles of Eco Saili
 
 - - -
 
-Based on the principle to [Use Renewable Resources](#pp05):
+## Which Cruising Region and Climate?
+
+When you consider long-term cruising, then you have the choice where to go and which climate you want to experience.
+
+This is a fundamental choice, as it might determine the suitable boat type and the need for some equipment (hull insulation, heating, warm water).
+
+## Which Boat Type?
+
+How much space do you want below and above deck? Warmer climate you will enjoy mostly on deck, where in rain or cold weather you will seek shelter below deck. 
+
+For expeditions far North or South, the hull needs to be strong enough to resist ice.
+
+Beaching and [anchoring](#anchoring) in shallow waters are a strategic advantage. Multihulls always have a shallow draft and can easily fall dry, and you can find these qualities also in monohull boats with a lifting keel or a centerboard.
+
+Multihulls are known for their speed. In the Eco Sailing context I want to point out the actual cause and a different consequence of the same symptom: multihulls are simply more efficient in the water. While some sailors and racers appreciate this efficiency purely for the sake of speed, you will also notice that a multihull requires less propulsion power for the same speed. You noticed that the sail area of a multihull boat is typically smaller than that of a monohull of similar size. The same logic applies to engine power. You can easily downsize the engine power for a multihull boat, which is a huge benefit when you limit yourself to renewable energy sources.
+
+A multihull boat is better suited for warm climates, because it has more space on deck, and slimmer hulls, compared to a monohull boat of similar size.  For reasonable space below deck you would need a catamaran of around 40 foot, which is already a large boat.
+
+
+
+
+## shower or warm water installation?
+
+This choice depends on your cruising region a lot, and also on your personal preferences.
 
 ## Use an Electric Engine
 
 or use no engine at all [^no_engine]
 
-**Reasoning**: an electric engine uses energy that you have [harvested yourself](#catch-resources) from renewable resources.
+**Reasoning**: an electric engine uses energy that you have [harvested yourself](#catch-resources) from [renewable resources](#use-renewable-resources).
 
 In contrast, diesel and petrol are fossil fuels, which are neither renewable nor sustainable. Even if you try to use biofuels, which are renewable, I have never seen them offered in marinas. Unlike life on land, you can't produce or collect your own biofuel on board. [^biofuel_feedback]
 

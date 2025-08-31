@@ -32,9 +32,11 @@ z_commons_silicone_spoon.md
 
 eco_travl_permaculture_intro.md
 z_commons_permaculture.md
-eco_travl_permaculture.md
+eco_sail_permaculture.md
 
 x_book_architecture.md
+
+wet_playground.md
 
 z_commons_energy.md
 fundamentals.md
