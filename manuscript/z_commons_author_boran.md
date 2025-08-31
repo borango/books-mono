@@ -1,6 +1,17 @@
-<!-- note that Observable frontmatter (such as a title) will be interpreted as a HR and literal markdown by Leanpub, so we cannot use it in order to inject a title in markdown files which do not begin with a # H1 --> 
+---
+title: About the author
+---
 
-### Boran
+<!-- note that Observable frontmatter (such as a title) will be interpreted as a HR and literal markdown by Leanpub --> 
+
+* * * 
+
+## About the author[^bg_portrait]
+
+[^bg_portrait]: &nbsp; ![Portrait of Boran](res/20250709_074842__Boran.jpg)
+<!--            &nbsp; above is a hack to prevent pandoc error:-->
+<!--     "! Paragraph ended before \hypertarget was complete." -->
+<!--apparently an image can not stand alone in a foot/sidenote -->
 
 Rock climber, paragliding pilot, sailor and engineer. Converted sailboats to 100% green energy for sustainable, autonomous life.
 
@@ -10,4 +21,3 @@ Loves people, dogs and nature.
 
 Believes in freedom and peace.
 
-![Portrait of Boran](res/20250709_074842__Boran.jpg)
