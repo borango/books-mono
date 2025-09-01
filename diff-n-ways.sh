@@ -27,6 +27,6 @@ for branch in "${branches[@]}"; do
 
   if [[ "$branch" != "$ref" ]]; then
       echo -e "\ndiff work against $branch "
-      git diff "$branch" -- "$FILE"
+      git --no-pager diff -w --minimal "$branch" -- "$FILE"
   fi
 done

@@ -13,6 +13,8 @@ It is what sets apart Eco Sailing from mainstream yachting: using the sea, wind 
 
 ## Seawater
 
+Boil potatoes in seawater. Clean dishes with seawater. Flush with seawater.
+
 ## Seaweed
 
 ## Fish

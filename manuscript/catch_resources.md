@@ -13,7 +13,11 @@ For the purpose of Eco Sailing, I consider the sails by far as the most importan
 
 Historically, sails were the *only* means of propulsion on a boat. Only in the last century, engines became available and common. For thousands of years, merchants and fishermen and pessengers travelled the seas with sails only. While I am totally open for all opportunities that modern technology offers, I want to point out that it is perfectly viable to view sails as the standard, and the engine as auxiliary.
 
-Compared to an engine, sails are direct resource-catchers. This simplicity is not only elegant. It is the reason for high reliability, excellent maintainability [^maintainability] and a relatively intuitive use.
+Compared to an engine, sails are direct [resource-catchers](#pp02). This simplicity is not only elegant. It is the reason for high reliability, excellent maintainability [^maintainability] and a relatively intuitive use.
+
+Wind is neither constant nor predictiable. Using it as the main means of propulsion requires careful weather [observation](#pp01) and creative response to [changes](#pp12).
+
+> Sail with the wind *or* Rest in a calm
 
 [^maintainability]: the ability to keep in good condition, and to repair it yourself if broken
 
