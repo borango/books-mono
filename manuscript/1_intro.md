@@ -88,3 +88,7 @@ So I chose to list Wind in chapter 1, Sails and the Wind Turbine (and all the ot
 I am using many cross-references in the electronic versions of this book. They represent the green lines in the diagrams above. This way you can follow a causal chain from Wind, Turbine, ... , to Propulsion (and back) if you want to. Otherwise you just keep reading about logical groups of subjects, chapter by chapter. [^book_structure_feedback]
 
 [^book_structure_feedback]: Please let me know how this book structure works for your reading experience!
+
+- - -
+
+## About the author

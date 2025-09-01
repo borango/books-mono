@@ -1,6 +1,11 @@
-Boran is a mountaineer, paragliding pilot, sailor and engineer. [^bg_portrait] Converted sailboats to 100% green energy for sustainable, autonomous life.
+---
+title: (About the author) Boran
+---
+Boran is a mountaineer, paragliding pilot, sailor and engineer. [^bg_portrait] 
 
-Full-time traveller since 2020, between the Arctic circle and the Sahara desert, in an electric car or on electric sailboats - producing "zero emissions".
+Converted two sailboats for sustainable, autonomous life.
+
+Full-time traveller since 2020, between the Arctic circle and the Sahara desert, in an electric car or on his "zero emission" sailboats.
 
 Loves people, dogs and nature.
 
