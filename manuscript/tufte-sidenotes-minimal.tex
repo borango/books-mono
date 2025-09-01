@@ -1,0 +1,17 @@
+\documentclass[a4paper]{tufte-book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{booktabs}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+% Enable numbered sidenotes
+\renewcommand{\sidenote}[3][0pt]{\marginpar{\raggedright\footnotesize\textsuperscript{\arabic{footnote}} #3}\textsuperscript{\arabic{footnote}}}
+\let\oldfootnote\footnote
+\renewcommand{\footnote}[1]{\stepcounter{footnote}\sidenote[]{\thefootnote}{#1}}
+% Ensure images fit within text width
+\let\oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{\oldincludegraphics[width=\textwidth,#1]{#2}}
+\begin{document}
+$body$
+\end{document}
