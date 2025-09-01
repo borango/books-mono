@@ -5,7 +5,7 @@ renewable_resources.md
 renewable_sunlight.md
 
 catch_resources.md
-catch_solar-panels.md
+solar-panels.md
 
 store_resources.md
 hot_water.md
