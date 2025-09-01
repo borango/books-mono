@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo pretending to merge from $1, but actually changing nothing
+
+git merge $1 --no-commit --no-ff -s ours

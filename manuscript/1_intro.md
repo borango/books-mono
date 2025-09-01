@@ -1,5 +1,3 @@
-{list-figures: groups}
-
 # Intro <!-- leanpub style: H1 for chapter title -->
 
 &nbsp;
@@ -9,7 +7,7 @@
 Eco Travel means moving in nature in such a way that is environmentally friendly, socially responsible, and economically sustainable.
 
 
-### Sustainability
+## Sustainability
 
 *Sustainable* means lasting a long time, like *going forever* without harming the environment, society or myself. It is a way of living and traveling that does not deplete resources while consuming a *fair share*.
 
@@ -17,13 +15,13 @@ Most readers of this book have sorted their residential life already in a sustai
 
 In financial terms, sustainability means that I can travel longer or infinite if I do not spend more than I earnIn financial terms, sustainability means that I can travel longer if I do not spend more than I earn. Travelling on a low budget is not a choice or a goal by itself but a consequence of the choice to travel longer or indefinitely.
 
-### Systemic approach
+## Systemic approach
 
 Eco Travel is a system. A system of needs, choices, procedures, equipment and habits. A system within a geographical, climatic and cultural context.
 
 Typically the system will evolve, based on changing opportunities and constraints, new priorities in needs, adjusted choices, better procedures and different equipment. Habits will both begin the evolution (begin with what you like to do), and some changed or new habits will be the result of the evolution.
 
-### Choice
+## Choice
 
 One of the first and fundamental choices for Eco Travel is the mode of transportation.
 

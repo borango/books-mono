@@ -1,36 +1,13 @@
-![](resources/title_page.png)
+---
+title: Eco Travel yourself
+subtitle: on Foot, by Bicycle, Car or Sailboat
+subject:
+abstract: 
+keywords: [travel, sailing, freedom, renewable, energy, resources, sustainability, eco, ecology, environment]
+author: Boran Gögetap and Flojito Stillnet
+date: \today
+---
 
-# Eco Travel yourself
-
-on Foot, by Bicycle, Car or Sailboat
-
-
-Boran Gögetap and Flojito Stillnet
-
-This book is available at https://leanpub.com/eco-travel
-
-This version was published on x.y.z
-
-Leanpub logo
-
-This is a Leanpub book. Leanpub empowers authors and
-publishers with the Lean Publishing process. Lean Publishing is
-the act of publishing an in-progress ebook using lightweight tools
-and many iterations to get reader feedback, pivot until you have
-the right book and build traction once you do.
-
-© 2025 Boran Gögetap and Flojito Stillnet
-
-# Contents
-
-...
-
-# List of Figures
-
-...
-
-# List of Tables
-
-...
-
-*this page is a proxy for the book cover and 3 lists, on Observable Frameworki; Leanpub generates this content automatically; this page source is not part of the Leanput manuscript*
+<!-- book metadata - keep this as first manuscript file !          -->
+<!-- NOTE that an empty subtitle definition breaks custom.tex      -->
+<!-- see also https://pandoc.org/demo/example33/6.2-variables.html -->

@@ -7,7 +7,7 @@ My experience comes from 10 years of driving an electric vehicle. My travels too
 
 For the sake of the environment, electric propulsion is most likely the most sustainable option. An electric vehicle is not necessarily powered by batteries. You can consider a hydrogen fuel cell vehicle as well, which also results in zero emissions and avoids the resource issues of lithium batteries.
 
-### Budget
+## Budget
 
 Depending how and where you source your electricity, it can come at very low cost. 10 years ago many providers were offering free charging stations, and some still do. Boran had been lucky to have a car contract that includes lifetime free electric charging. In Morrocco most charging stations are free of cost since 2019, until 2024 at least. At home you could charge from your own solar power, as Flo does.
 
