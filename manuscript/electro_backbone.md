@@ -48,7 +48,7 @@ Consider that **no** engine is also an option.
 
 ## Plan (other) DC loads
 
-The [immersion heater](#immersion_heater) does not require much power, which makes it easy to integrate almost anywhere into the DC system. Heating 3 liters of water this way requires 300 Wh, which we note for the daily battery capacity planning.
+The [immersion heater](#immersion-heater) does not require much power, which makes it easy to integrate almost anywhere into the DC system. Heating 3 liters of water this way requires 300 Wh, which we note for the daily battery capacity planning.
 
 The anchor windlass, on the other hand, requires a lot of power which we need to plan for wiring and battery output. But it does not run for a long time, so the battery capacity is not affected much.
 

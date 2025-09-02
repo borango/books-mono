@@ -3,11 +3,27 @@ title: Batteries
 ---
 ## Batteries
 
-On a sustainable and autonomous boat, batteries play a larger role. Obviously to store energy between the time you can harvest it (from sun and wind), and the time when you need it (for engines, cooking, lights, instruments and you-name-it).
+On a sustainable and autonomous boat we need to [store](#pp02) energy between the time we harvest it from sun and wind, and the time when we need it (for engines, cooking, lights, instruments and you-name-it).
 
-By definition and by their nature as an energy-storage-system (ESS), batteries support the Permaculture Princicple #2: Catch and **Store** Energy.
+Propulsion by sails or cooking in a solar stove are efficient shortcuts where we use energy in the same moment when we catch it. 
 
-> A completely alternative approch for storing electrical energy would be **fuel cells**. I had only researched but never worked with them. Please contact me if you want more information about fuel cells, then I will be happy to elaborate about my research results.
+Using the electric engine on a sunny day does not require energy storage between solar panels and the engine.
+
+Storing hot water in a thermos is a simple way to store energy in the form of heat.  
+
+In many other situations we need to store electric energy. For practical reasons I will assume that batteries [^fuel_cell_alternative] are our solution for that task.
+
+[^fuel_cell_alternative]: a different solution would be **fuel cells**; I had only researched but never worked with them. Please contact me if you have or want more information about fuel cells.
+
+The fact that we need batteries is a no-brainer. *How much* battery capacity we need is a tricky question. It is both complex (in the sense that there are multiple different reasons and requirements for energy storage) and speculative. For example, we can't tell in advance how much engine autonomy we will really need or for how long we will be without sunshine or without wind. There is no *right* size of batteries - only informed guesses.
+
+Compared to energy production, which is absolutely limited by space, I find sizing the batteries not so difficult. Let us assume that space for solar panels limits your daily production at 10 kWh (that would be a lot). Batteries to store 10 kWh weigh less than 100 kg. So can easily size your batteries rather too large than too small, and enjoy plenty of [extra capacity](#pp03) most of the time.
+
+When you convert your boat from fossil fuels to renewable energy, then you can eliminate some heavy equipment and use the saved weight for battery capacity. These 20 liter fuel canisters, the large gas bottle or the gas stove: each is equivalent in weight to 2 or 3 kWh of battery capacity. An electric engine is lighter than a petrol engine of the same power. I find that quite a good deal actually, because with electricity I can do it all (cooking and motoring and working remotely), where diesel or gas can only fuel one subsystem on the boat. If you can plan your new boat with this strategy - even better!
+
+> Fun fact: At very slow speeds of 1-2 knots, the mileage that you get from 1 kg of Lithium battery is actually higher than that from 1 kg of petrol. This won't help you if you are in hurry or when you fight against headwind. When caught in the doldrums, however, I find that a comforting idea: assuming a daily solar energy production of 5 kWh, and the same or higher battery capacity, then you can power your engine at 200 Watt continuously.
+
+- - -
 
 Typical electrical devices on a sailboat use 12 Volts as their input voltage. Therefore, it makes sense to have a 12 V battery system (so-called bank) on board. 
 

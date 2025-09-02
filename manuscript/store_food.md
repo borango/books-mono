@@ -1,10 +1,12 @@
-# Store Food
+---
+title: Pantry
+---
+#      Pantry (Store Food) {#pantry}
 
-This section is derived from [Permaculture principle #2 Catch and Store Resources](#pp02).
+Within the limited space of a sailboat, food is a resource that you cannot *grow* [^catch_fish_additionally] in sufficient quantities. On the scale of our own boat, food is not renewable and we need to [store](#pp02) it.
 
-In this book I am dividing storage of *food* from all other resources (water and energy).
+[^catch_fish_additionally]: yes you can *catch* fish and add that to your diet - in an extreme case, it will make you self-suffient; in a more general case when you can't or don't want to catch fish, let us assume that we need to store food
 
-This section here is about the *food* resources: your pantry.
 
 My logic for storing food is:
 

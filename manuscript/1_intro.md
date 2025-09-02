@@ -43,24 +43,19 @@ Whatever perspective you have on sailing: in this book I will tell you everythin
 
 ## Book Structure
 
-Sailing, ecology and sustainability go together hand in hand. [^n1]
+Sailing, ecology and sustainability go together hand in hand.
 
-[^n1]: Not necessarily sailing a modern, overpowered yacht that offers 4-star comfort and hops from marina to marina, refilling fuel and water tanks and connecting to shore power as soon as they can. Here I am writing about a sailing lifestyle which is closer to camping in terms of comfort, and similar to living in an offgrid tiny house.
+<!-- [^n1]: Not necessarily sailing a modern, overpowered yacht that offers 4-star comfort and hops from marina to marina, refilling fuel and water tanks and connecting to shore power as soon as they can. Here I am writing about a sailing lifestyle which is closer to camping in terms of comfort, and similar to living in an offgrid tiny house. -->
 
-Many aspects of Eco Sailing remind me of [Permaculture](#permaculture), which is why the first four chapters of this book are based on major permaculture principles: 
+Many aspects of Eco Sailing remind me of Permaculture. Using renewable resources is what sets apart Eco Sailing from mainstream yachting: using the sea, wind and sun instead of diesel, marinas and shore power.
 
-1. Use Renewable Resources
-1. Catch Resources 
-1. Store Resources *and*
-1. Store Food
+The chapter [Cooking and Eating](#cook-eat) is dedicated to fulfilling the basic human need, ideally not only to survive, but to enjoy as well. And it uses resources efficiently and respectful.
 
-These chapters list procedures and equipment which are tightly related with each other and form a logical group.
-
-The chapter [Cooking and Eating](#cook-eat) is dedicated to fulfilling the basic human need, ideally not only to survive, but to enjoy as well. Chapters 1-4 build the foundation that culminates, on one side, in cooking and eating.
-
-On the other side, chapters 1-3 are the foundation for mechanical and electric energy, which pushes the boat and powers vital equipment. The electrical side I cover in chapter Electro Backbone. 
+On the other side, catching and storing renewable resources delivers mechanical and electric energy, which pushes the boat and powers vital equipment. The electrical side I cover in chapter Electro Backbone. 
 
 Strategic, tactical and procedural aspects I cover in the two chapters on Sailing and Anchoring.
+
+Living aboard also means that there is no winter season when you lift your boat out of the water and perform maintenance at land. In Eco Sailing you should be equipped with the basic [tools](#tools) for maintenance, repair, modifications and exstensions of your boat.
 
 Finally, autonomy can reach a limit. The chapter on Infrastructure discusses how we connect to zivilization, from time to time, for supplies, repairs, social contacts and so on.
 

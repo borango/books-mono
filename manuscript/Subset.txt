@@ -2,24 +2,23 @@
 z_commons_author_boran.md
 
 renewable_resources.md
-renewable_sunlight.md
+sunlight.md
 
 catch_resources.md
 solar-panels.md
 
-store_resources.md
-hot_water.md
-batteries.md
-
-store_food.md
-
-cook_eat.md
-
 electro_backbone.md
+batteries.md
 
 sailing.md
 
 anchoring.md
+
+cook_eat.md
+hot_water.md
+store_food.md
+
+tools.md
 
 infrastructure.md
 

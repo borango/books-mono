@@ -33,7 +33,7 @@ This choice depends on your cruising region a lot, and also on your personal pre
 
 or use no engine at all [^no_engine]
 
-**Reasoning**: an electric engine uses energy that you have [harvested yourself](#catch-resources) from [renewable resources](#use-renewable-resources).
+**Reasoning**: an electric engine uses energy that you have [harvested yourself](#catch-resources) from [wind](#wind) or [sunlight](#sunlight).
 
 In contrast, diesel and petrol are fossil fuels, which are neither renewable nor sustainable. Even if you try to use biofuels, which are renewable, I have never seen them offered in marinas. Unlike life on land, you can't produce or collect your own biofuel on board. [^biofuel_feedback]
 

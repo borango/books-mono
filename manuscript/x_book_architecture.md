@@ -3,4 +3,4 @@ toc: false
 ---
 # Book Architecture
 
-![structure](vec/book_architecture.svg)
+![Information Architecture of Topics in Book Chapters and Sections](vec/book_architecture.svg)

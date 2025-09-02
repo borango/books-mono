@@ -1,20 +1,30 @@
 ```{=latex}
 \mainmatter
 ```
-# Use Renewable Resources
-
-This section is directly derived from [Permaculture principle #5](#pp05).
-
-It is what sets apart Eco Sailing from mainstream yachting: using the sea, wind and sun instead of diesel, marinas and shore power.
+# Renewable Resources
 
 ## Wind
 
+-> Sails -> sail
+
+-> Wind Turbine -> Electric Energy
+
 ## Rainwater
+
+-> collect -> Freshwater
 
 ## Seawater
 
-Boil potatoes in seawater. Clean dishes with seawater. Flush with seawater.
+Boil potatoes in seawater. 
+
+Clean dishes with seawater. Flush with seawater.
+
+-> desalinate -> collect ->
 
 ## Seaweed
 
+-> food
+
 ## Fish
+
+-> food

@@ -1,6 +1,12 @@
 # Cooking and Eating {#cook-eat}
 
-or: my Nomadic Cookbook
+Cooking and eating is a complex subject. At the minimum it satisfies a basic human need. Ideally it is a pleasure for our senses, fun to experience in a group, and possibly an art.
+
+On a sailboat, cooking and eating can be somewhere between the following two extremes: either with all the luxuries of a residential life, just carried on board: a full-size kitchen including stoves and dishwasher, fridge, freezer and all the food that you are used to eat daily. Or a nomadic kitchen, designed for weeks or months of ocean voyages with very limited resources.
+
+In the first case you don't need information how to run a residential kitchen. I want to present you a system that works for a long-term nomadic kitchen with limited resources.
+
+
 
 - - -
 
@@ -73,7 +79,7 @@ Mix boiled potatoes with onion or pickled cucumber and [mayonnaise](#mayonnaise)
 ## Tortilla Espanol
 
 1. fry half [onion](#onions) rings in a pan, then keep separate
-1. boil diced raw [potatoes](#potatoes) in 50% [olive oil](#olice-oil) and [(hot) water](#hot-water); add some salt
+1. boil diced raw [potatoes](#potatoes) in 50% [olive oil](#olive-oil) and [(hot) water](#hot-water); add some salt
 1. while potatoes are boiling, add [eggs](#eggs) to the fried onions and mix
 1. when potatoes are done (cutting edges getting soft), add onions and eggs and fry everything for 5 minutes
 1. cut in 6 or 8 pieces while still in the pan, and turn pieces around (saves a plate and a mess)
