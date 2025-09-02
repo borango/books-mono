@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ag "(#[\w|-]+)" manuscript/*.md -o --no-filename --nonumbers | sort -u
