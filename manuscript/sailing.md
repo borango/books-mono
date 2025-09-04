@@ -8,7 +8,7 @@ For moving the boat we typically have two options: [sails](#sails) and the [engi
 
 Here I want to compara and connect these propulsion options with the strategy and tactics of navigation.
 
-Eco Sailing limits the engine options effectively to an electric one, by [choice](#choice).
+Eco Sailing limits the engine options effectively to an electric one, by [choice](#choices).
 While you can get them at any power that you desire, the autonomy of an electric engine is limited by the installed battery capacity. Practically that means that you cannot go as fast or as far with an electric engine, compared to a combustion engine.
 
 For a longer sailing trip (one or multiple days), my cruising speed on engine is between 1 and 2 knots. It is barely better than standing still.

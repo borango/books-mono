@@ -12,4 +12,4 @@ Here is a complete list of equipment from this book.
 |Store R | Thermos                           | storing hot water     | [2 ...Store ](#pp02)|
 |Store R | 12 V immersion heater             | boiling water         | [6 No Waste](#pp06), [9 Small](#pp09) |
 |Store R | [Batteries](#batteries)           | storing el. energy    |
-|Cook/Eat| [Silicone Spoon](#silicone_spoon) | cleaning dishes       | [2 Catch ...](#pp02), [6 No Waste](#pp06) |
+|Cook/Eat| [Silicone Spoon](#silicone-spoon) | cleaning dishes       | [2 Catch ...](#pp02), [6 No Waste](#pp06) |

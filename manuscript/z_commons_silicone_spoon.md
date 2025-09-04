@@ -1,7 +1,7 @@
 ---
 title: Silicone Spoon
 ---
-## Silicone Spoon (or Spatula) {#silicone_spoon}
+## Silicone Spoon (or Spatula) {#silicone-spoon}
 
 For those who have been using it for a while, this is a fundamental helper in the kitchen - be it on a travel or at home.
 
