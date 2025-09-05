@@ -13,7 +13,7 @@ Storing hot water in a thermos is a simple way to store energy in the form of he
 
 In many other situations we need to store electric energy. For practical reasons I will assume that batteries [^fuel_cell_alternative] are our solution for that task.
 
-[^fuel_cell_alternative]: a different solution would be **fuel cells**; I had only researched but never worked with them. Please contact me if you have or want more information about fuel cells.
+[^fuel_cell_alternative]: A different solution would be **fuel cells**; I had only researched but never worked with them. Please contact me if you have or want more information about fuel cells.
 
 The fact that we need batteries is a no-brainer. *How much* battery capacity we need is a tricky question. It is both complex (in the sense that there are multiple different reasons and requirements for energy storage) and speculative. For example, we can't tell in advance how much engine autonomy we will really need or for how long we will be without sunshine or without wind. There is no *right* size of batteries - only informed guesses.
 
@@ -21,7 +21,7 @@ Compared to energy production, which is absolutely limited by space, I find sizi
 
 When you convert your boat from fossil fuels to renewable energy, then you can eliminate some heavy equipment and use the saved weight for battery capacity. These 20 liter fuel canisters, the large gas bottle or the gas stove: each is equivalent in weight to 2 or 3 kWh of battery capacity. An electric engine is lighter than a petrol engine of the same power. I find that quite a good deal actually, because with electricity I can do it all (cooking and motoring and working remotely), where diesel or gas can only fuel one subsystem on the boat. If you can plan your new boat with this strategy - even better!
 
-> Fun fact: At very slow speeds of 1-2 knots, the mileage that you get from 1 kg of Lithium battery is actually higher than that from 1 kg of petrol. This won't help you if you are in hurry or when you fight against headwind. When caught in the doldrums, however, I find that a comforting idea: assuming a daily solar energy production of 5 kWh, and the same or higher battery capacity, then you can power your engine at 200 Watt continuously (= 4.800 Wh in 24 hours).
+> Fun fact: At very slow speeds of 1-2 knots, the mileage that you get from 1 kg of Lithium battery is actually higher than that from 1 kg of petrol. This won't help you if you are in hurry or when you fight against headwind. When caught in the doldrums, however, I find that a comforting idea: assuming a daily solar energy production of 5 kWh, and the same or higher battery capacity, then you can power your engine at 200 Watt continuously (= 4800 Wh in 24 hours).
 
 - - -
 
@@ -51,11 +51,13 @@ More on voltage conversion (12 V <-> 48 V -> 230 V) in the detailed chapter. I a
 
 **Chemistry**
 
-You have certainly heard of lithium batteries as an alternative to lead-acid batteries. For the 48 V battery bank, which you will likely install as a new one, there is no reasonable alternative to Lithium batteries. Yes in theory you could wire old (or new) 12 V lead-acid batteries in series, to produce a total of 48 V bank voltage. But then you must take care of midpoint voltages (at 12V, 24V and 36 V) and balance the batteries yourself. It is possible but unnecessarily complicated. Every quality lithium battery will take care of cell balancing internally (and very good ones will report on the internal cell voltages, for safety).
+You have certainly heard of lithium batteries as an alternative to lead-acid batteries. For the 48 V battery bank, which you will likely install as a new one, there is no reasonable alternative to one or more larger lithium batteries at nominal 48 Volts. [^lithium48_alternative] 
+
+[^lithium48_alternative]: Yes in theory you could wire old (or new) 12 V lead-acid batteries in series, to produce a total of 48 V bank voltage. But then you must take care of midpoint voltages (at 12V, 24V and 36 V) and balance the batteries yourself. It is possible but unnecessarily complicated. Every quality lithium battery will take care of cell balancing internally (and very good ones will report on the internal cell voltages, for safety).
 
 If you have sufficient capacity in your existing lead-acid 12 V batteries, then you can perfectly continue using those until their end of life. 
 
-You can also swap them out one-by-one, or expand your existing lead-acid batteries with lithium batteries in parallel. In this case you just need to set the charging voltages (float and absorption) in your 12 V charge controller(s) to a safe level for all your existing 12 V batteries.
+You can also swap them out one-by-one, or expand your existing lead-acid batteries with lithium batteries in parallel. In this case you just need to set the charging voltages (float and absorption) in your 12 V charge controller(s) to a safe level for all your existing 12 V batteries, that is the lowest recommended charging voltage across all your batteries. 13.8 - 14 Volts is a safe level of absorption charging for most batteries.
 
 I advise you to invest in lithium batteries whenever you buy new ones, and to avoid complicated serial battery banks where you need to manage and balance midpoint voltages.
 
