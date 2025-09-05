@@ -30,10 +30,14 @@ MANUSCRIPT_FILES := $(wildcard manuscript/*.md) # actually only those in Book.tx
 # identical call for PDF book and intermediate LaTeX file 
 # (except for the output filename of course)
 #
-%.pdf %.tex : ${MANUSCRIPT_FILES} makefile manuscript/Subset.txt
+define pandoc_tex_or_pdf
 	@echo "rebuilding $@"
 	@cd manuscript; \
 	pandoc -V documentclass=${DOCUMENTCLASS} -V classoption=oneside -V toc=true --toc-depth=1 -V header-includes="\usepackage{etoolbox}\AtBeginDocument{\setlength{\parindent}{0pt}}\hypersetup{colorlinks=false,allbordercolors={0 0 0},pdfborderstyle={/S/U/W 1}}" -o ../$@ index.md $$(cat Subset.txt)
+endef
+
+%.pdf :: ${MANUSCRIPT_FILES} makefile manuscript/Subset.txt; ${pandoc_tex_or_pdf}
+%.tex :: ${MANUSCRIPT_FILES} makefile manuscript/Subset.txt; ${pandoc_tex_or_pdf}
 
 #
 # intermediate targets
