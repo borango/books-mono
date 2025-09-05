@@ -17,7 +17,7 @@ pdf : ${PDFFILE}
 # implementation
 #
 
-DOCUMENTCLASS := bogo-tufte-book
+DOCUMENTCLASS ?= bogo-tufte-book
 
 DEFINED_PATTERN := {
 REFRNCD_PATTERN := (

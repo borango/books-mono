@@ -1,6 +1,5 @@
-  DOCUMENTCLASS=bogo-tufte-book
 if [ "$GITHUB_ACTIONS" = "true" ]; then
-  DOCUMENTCLASS=book
+  export DOCUMENTCLASS=book
 fi
 
 # --template=tufte-sidenotes-minimal.tex \
@@ -10,5 +9,5 @@ fi
 make pdf
 
 if [ -d    ../mono/dist ]; then
-  mv *.pdf ../mono/dist/
+  cp *.pdf ../mono/dist/
 fi
