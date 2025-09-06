@@ -1,5 +1,5 @@
-TEXFILE = $(shell ./branch_to_filename.sh).tex
-PDFFILE = $(shell ./branch_to_filename.sh).pdf
+TEXFILE = $(shell ./bookname.sh).tex
+PDFFILE = $(shell ./bookname.sh).pdf
 
 #
 # User Targets
@@ -26,30 +26,34 @@ MANUSCRIPT_ANCHOR_PATTERN := [\${DEFINED_PATTERN}|\${REFRNCD_PATTERN}](\#[\w|-]+
 
 MANUSCRIPT_FILES := $(wildcard manuscript/*.md) # actually only those in Book.txt + Subset.txt
 
+define buildingnote
+	@echo "rebuilding $@"
+endef
+
 #
 # identical call for PDF book and intermediate LaTeX file 
 # (except for the output filename of course)
 #
 define pandoc_tex_or_pdf
-	@echo "rebuilding $@"
+	${buildingnote}
 	@cd manuscript; \
-	pandoc -V documentclass=${DOCUMENTCLASS} -V classoption=oneside -V toc=true --toc-depth=1 -V header-includes="\usepackage{etoolbox}\AtBeginDocument{\setlength{\parindent}{0pt}}\hypersetup{colorlinks=false,allbordercolors={0 0 0},pdfborderstyle={/S/U/W 1}}" -o ../$@ index.md $$(cat Subset.txt)
+	pandoc -V documentclass=${DOCUMENTCLASS} -V classoption=oneside -V toc=true --toc-depth=1 -V header-includes="\usepackage{etoolbox}\AtBeginDocument{\setlength{\parindent}{0pt}}\hypersetup{colorlinks=false,allbordercolors={0 0 0},pdfborderstyle={/S/U/W 1}}" -o ../$@ index.md $$(cat Subset.txt || cat Book.txt)
 endef
 
-%.pdf :: ${MANUSCRIPT_FILES} makefile manuscript/Subset.txt; ${pandoc_tex_or_pdf}
-%.tex :: ${MANUSCRIPT_FILES} makefile manuscript/Subset.txt; ${pandoc_tex_or_pdf}
+%.pdf : ${MANUSCRIPT_FILES} makefile ; ${pandoc_tex_or_pdf}
+%.tex : ${MANUSCRIPT_FILES} makefile ; ${pandoc_tex_or_pdf}
 
 #
 # intermediate targets
 #
 
 _manuscript_anchors.txt : ${MANUSCRIPT_FILES} makefile
-	@echo "rebuilding $@"
+	${buildingnote}
 	@grep '${MANUSCRIPT_ANCHOR_PATTERN}' manuscript/*.md -oP --no-filename | sort -u \
 	> $@
 
 define   build_manuscript_anchor_file
-	@echo "rebuilding $@"
+	${buildingnote}
 	@cat _manuscript_anchors.txt | grep '${1}#' | \
 	sed 's/[(|{]#\(.*\)[)|}]/\1/' \
 	> $@
@@ -63,7 +67,7 @@ _manuscript_refrncd_anchors.txt : _manuscript_anchors.txt
 
 
 _tex_defined_anchors.txt :             ${TEXFILE}
-	@echo "rebuilding $@"
+	${buildingnote}
 	@grep -oP '\\hypertarget{([\w|-]+)}' ${TEXFILE} |   \
 	sed 's/.*{\(.*\)}/\1/'                    | sort -u \
 	> $@
