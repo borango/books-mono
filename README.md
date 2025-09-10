@@ -49,7 +49,7 @@ Other scripts help me to split and merge between book branches.
 ## more dependencies
 
 ```bash
-sudo apt install pandoc texlive-latex-extra texlive-pictures librsvg2-bin rsvg-convert 
+sudo apt install make pandoc librsvg2-bin texlive-latex-extra 
 ```
 
 ## Contribution
