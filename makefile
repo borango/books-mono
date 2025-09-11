@@ -27,7 +27,7 @@ MANUSCRIPT_ANCHOR_PATTERN := [\${DEFINED_PATTERN}|\${REFRNCD_PATTERN}](\#[\w|-]+
 MANUSCRIPT_FILES := $(wildcard manuscript/*.md) # actually only those in Book.txt + Subset.txt
 
 define buildingnote
-	@echo "rebuilding $@"
+	@echo "$(date '+%H:%M') | rebuilding $@"
 endef
 
 #
