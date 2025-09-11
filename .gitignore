@@ -4,6 +4,9 @@ manuscript/.observablehq/cache/
 manuscript/resources/vec/*gen.svg
 node_modules
 yarn-error.log
+_*.txt
+*.pdf
+/*.tex
 *.swp
 *.tgz
 !*.sh
