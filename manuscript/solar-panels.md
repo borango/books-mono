@@ -9,11 +9,11 @@ Together with a modern charge controller, they stop charging when batteries are 
 
 A great opportunity on a boat, even better on a catamaran, is the available space for mounting solar panels. Your first choice is to install walkable, flexible, flush-mount solar panels on existing, horizontal surfaces: cabin roofs and deck. This follows the same logic as putting panels on roofs of houses at land. You want to [integrate, not segragate](#pp08). A solar farm on the ground looks way less natural than on roof tops.
 
-How much solar panels you need on an Eco sailboat is a matter of your energy demand, which I discuss in thei [electro backbone](#electro-backbone) chapter. Together with the [wind turbine](#wind-turbine) and a recuperating [engine](#engine) or other "hydro generator"[^hydro_generator_misnomer], solar panels must deliver the supply for all of your electric energy demand.
+How much solar panels you need on an Eco sailboat is a matter of your energy demand, which I discuss in the [electro backbone](#electro-backbone) chapter. Together with the [wind turbine](#wind-turbine) and a recuperating [engine](#engine) or other "hydro generator"[^hydro_generator_misnomer], solar panels must deliver the supply for all of your electric energy demand.
 
 [^hydro_generator_misnomer]: misnomer; this device does not generate water but generates electricty from motion through water
 
-On land you can often scale up your solar panel installation to meet your preferred demand. With the limited space of your boat, you typically calclate backwards and scale down your habits until your reduced needs match the available supply of energy.
+On land you can often scale up your solar panel installation to meet your preferred demand. With the limited space of your boat, you typically calculate backwards and scale down your habits until your reduced needs match the available supply of energy.
 
 Therefore most likely you want to:
 
@@ -39,3 +39,10 @@ If you already have a fixed bimini top, then the aerodynamic damage is already d
 
 If you need to resolve the conflict between energy supply ("install all you can") and safety in a storm, I suggest that you keep the structure of your boat clean and safe for storms. In addition, use mobile or foldable solar panels in absolutely calm conditions. You can recharge your batteries and even sail in a calm with mobile panels that are strapped to the deck or to the reling.
 
+- - -
+
+The right voltage
+
+Most solar panels are meant to charge a 12 Volt system, so their voltage is high enough for that purpose but not to charge batteries of 24 or more Volts.
+
+If you have multiple voltage levels on board, then the 24 V or 48 V bank would be more efficient to be charged directly (panel -> controller -> 48 V battery) than going through 12 V and a step-up converter (panel -> controller -> 12 V -> step-up -> 48 V). A panel voltage of 60 or more Volt is possible if you connect multiple panels of identical type in series. Try to find panels with a high rated output voltage, because then you need less units of that type in your series. You should only connect them in series if all panels are facing in the same direction, and are not likely partially shaded. If only one in a series of panels is partially shaded, then the whole series will produce much less power. Operating the panels in parallel and stepping the energy up would be more efficient in that case.
